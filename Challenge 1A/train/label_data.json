@@ -1,0 +1,74 @@
+[
+  {
+    "text": "1. Introduction to Machine Learning",
+    "font": "Helvetica-Bold",
+    "size": 16.0,
+    "top": 100.0,
+    "page": 1,
+    "label": "H1"
+  },
+  {
+    "text": "1.1 What is Machine Learning?",
+    "font": "Helvetica-Bold",
+    "size": 14.0,
+    "top": 120.0,
+    "page": 1,
+    "label": "H2"
+  },
+  {
+    "text": "1.1.1 Supervised Learning",
+    "font": "Helvetica-Bold",
+    "size": 12.0,
+    "top": 140.0,
+    "page": 1,
+    "label": "H3"
+  },
+  {
+    "text": "Machine learning is a field of artificial intelligence...",
+    "font": "Helvetica",
+    "size": 10.0,
+    "top": 160.0,
+    "page": 1,
+    "label": "O"
+  },
+  {
+    "text": "2. Deep Learning",
+    "font": "Helvetica-Bold",
+    "size": 16.0,
+    "top": 200.0,
+    "page": 2,
+    "label": "H1"
+  },
+  {
+    "text": "2.1 What is Deep Learning?",
+    "font": "Helvetica-Bold",
+    "size": 14.0,
+    "top": 220.0,
+    "page": 2,
+    "label": "H2"
+  },
+  {
+    "text": "Deep learning is a subfield of ML...",
+    "font": "Helvetica",
+    "size": 10.0,
+    "top": 240.0,
+    "page": 2,
+    "label": "O"
+  },
+  {
+    "text": "Appendix A: References",
+    "font": "Helvetica-Bold",
+    "size": 16.0,
+    "top": 300.0,
+    "page": 3,
+    "label": "H1"
+  },
+  {
+    "text": "This section lists references...",
+    "font": "Helvetica",
+    "size": 10.0,
+    "top": 320.0,
+    "page": 3,
+    "label": "O"
+  }
+]
