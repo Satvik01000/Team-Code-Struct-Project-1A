@@ -1,6 +1,6 @@
 import fitz
 
-def extract_spans(pdf_path):
+def extract_pdf_features(pdf_path):
     doc = fitz.open(pdf_path)
     all_spans = []
 
