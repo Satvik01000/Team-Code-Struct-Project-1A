@@ -1,5 +1,8 @@
 import fitz
 
+def normalize_font(font_name):
+    return font_name.lower().replace("-", "").replace("mt", "")
+
 def extract_pdf_features(pdf_path):
     doc = fitz.open(pdf_path)
     all_spans = []
@@ -14,7 +17,7 @@ def extract_pdf_features(pdf_path):
                 span = line["spans"][0]
                 all_spans.append({
                     "text": text,
-                    "font": span["font"],
+                    "font": normalize_font(span["font"]),
                     "size": span["size"],
                     "top": span["bbox"][1],
                     "page": page_num + 1

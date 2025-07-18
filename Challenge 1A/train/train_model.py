@@ -1,4 +1,4 @@
-import json
+import csv
 import joblib
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
@@ -6,8 +6,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from collections import Counter
 
-with open("label_data.json", "r") as f:
-    data = json.load(f)
+# 🔹 Load your labeled training data from CSV
+with open("label_data.csv", "r", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    data = list(reader)
 
 X = []
 y = []
@@ -24,8 +26,8 @@ for item in data:
     text = item["text"]
 
     features = [
-        item["size"],
-        item["top"],
+        float(item["size"]),
+        float(item["top"]),
         font_to_index[font],
         int(text.isupper()),
         int(text.endswith(":")),
@@ -43,7 +45,7 @@ print("Label distribution:", Counter(y))
 le = LabelEncoder()
 y_encoded = le.fit_transform(y)
 
-X_train, X_test, y_train, y_test = train_test_split( X, y_encoded, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.2, random_state=42)
 
 model = RandomForestClassifier(n_estimators=100, max_depth=10, random_state=42)
 model.fit(X_train, y_train)
@@ -52,8 +54,8 @@ y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Validation Accuracy: {accuracy * 100:.2f}%")
 
-joblib.dump(model, "model.pkl")
-joblib.dump(le, "label_encoder.pkl")
-joblib.dump(font_to_index, "font_map.pkl")
+joblib.dump(model, "trained_model_and_data/model.pkl")
+joblib.dump(le, "trained_model_and_data/label_encoder.pkl")
+joblib.dump(font_to_index, "trained_model_and_data/font_map.pkl")
 
 print("Model trained and saved.")
