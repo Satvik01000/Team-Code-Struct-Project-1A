@@ -5,8 +5,11 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from collections import Counter
+import re
 
-# 🔹 Load your labeled training data from CSV
+def is_latin(text):
+    return bool(re.match(r'^[\x00-\x7F]+$', text))
+
 with open("label_data.csv", "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     data = list(reader)
@@ -24,14 +27,15 @@ for item in data:
         font_index_counter += 1
 
     text = item["text"]
+    use_case_features = is_latin(text)
 
     features = [
         float(item["size"]),
         float(item["top"]),
         font_to_index[font],
-        int(text.isupper()),
+        int(text.isupper()) if use_case_features else 0,
         int(text.endswith(":")),
-        int(text.istitle()),
+        int(text.istitle()) if use_case_features else 0,
         len(text.split()),
         len(text),
         int(text[0].isdigit())

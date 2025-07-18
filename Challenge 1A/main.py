@@ -26,8 +26,10 @@ def main(pdf_path):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=4, ensure_ascii=False)
 
-    print(f"✅ Output written to: {output_path}")
-
+    with open(output_path, "r", encoding="utf-8") as f:
+        content = f.read()
+        print(content)
+    
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
