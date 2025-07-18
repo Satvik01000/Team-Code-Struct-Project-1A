@@ -1,4 +1,5 @@
 import sys
+import os
 import json
 from app.extract_features import extract_pdf_features
 from app.predict import predict_headings
@@ -19,8 +20,13 @@ def main(pdf_path):
         "title": title,
         "outline": outline
     }
+    base_filename = 'output'
+    output_path = os.path.join(os.getcwd(), f"{base_filename}.json")
 
-    print(json.dumps(result, indent=4, ensure_ascii=False))
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, indent=4, ensure_ascii=False)
+
+    print(f"✅ Output written to: {output_path}")
 
 
 if __name__ == "__main__":
