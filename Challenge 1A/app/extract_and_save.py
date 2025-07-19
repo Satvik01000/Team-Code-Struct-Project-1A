@@ -1,8 +1,10 @@
 import json
 import csv
+import sys
 from extract_features import extract_pdf_features
 
-pdf_path = "../pdfs/E0CCG5S312.pdf"
+pdf_name = sys.argv[1] if len(sys.argv) > 1 else ""
+pdf_path = "../sample_pdfs/{pdf_name}"
 
 blocks = extract_pdf_features(pdf_path)
 
