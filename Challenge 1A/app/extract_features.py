@@ -20,6 +20,6 @@ def extract_pdf_features(pdf_path):
                     "font": normalize_font(span["font"]),
                     "size": span["size"],
                     "top": span["bbox"][1],
-                    "page": page_num + 1
+                    "page": page_num
                 })
     return all_spans
