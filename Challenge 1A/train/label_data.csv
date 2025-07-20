@@ -1,250 +1,1009 @@
 text,font,size,top,page,label
-Overview Foundation Level Extensions,"arial,bold",24,189.62002563476562,1,title
-Revision History,"arial,bold",15.960000038146973,108.93620300292969,3,H1
-Table of Contents,"arial,bold",15.960000038146973,108.93620300292969,4,H1
-Acknowledgements,arial,15.960000038146973,108.93620300292969,5,H1
-1. Introduction to the Foundation Level Extensions,arial,15.960000038146973,122.97618103027344,6,H1
-2. Introduction to Foundation Level Agile Tester Extension,arial,15.960000038146973,122.97618103027344,7,H1
-2.1 Intended Audience,arial,14.039999961853027,217.35379028320312,7,H2
-2.2 Career Paths for Testers,arial,14.039999961853027,484.5238037109375,7,H2
-2.3 Learning Objectives,arial,14.039999961853027,613.6738281,7,H2
-2.4 Entry Requirements,arial,14.039999961853027,156.99380493164062,8,H2
-2.5 Structure and Course Duration,arial,14.039999961853027,217.11380004882812,8,H2
-2.6 Keeping It Current,arial,14.039999961853027,133.95376586914062,9,H2
-3. Overview of the Foundation Level Extension –  Agile Tester,arial,15.960000038146973,119.85618591308594,10,H1
-3.1 Business Outcomes,arial,14.039999961853027,187.95376586914062,10,H2
-3.2 Content,arial,14.039999961853027,533.0038452148438,10,H2
-4. References,arial,15.960000038146973,122.97618103027344,12,H1
-4.1 Trademarks,arial,14.039999961853027,171.39376831054688,12,H2
-4.2 Documents and Web Sites,arial,14.039999961853027,257.4637756347656,12,H2
+Overview Foundation Level Extensions,"arial,bold",24,189.6200256,1,title
+Revision History,"arial,bold",15.96000004,108.936203,3,H1
+Table of Contents,"arial,bold",15.96000004,108.936203,4,H1
+Acknowledgements,arial,15.96000004,108.936203,5,H1
+1. Introduction to the Foundation Level Extensions,arial,15.96000004,122.976181,6,H1
+2. Introduction to Foundation Level Agile Tester Extension,arial,15.96000004,122.976181,7,H1
+2.1 Intended Audience,arial,14.03999996,217.3537903,7,H2
+2.2 Career Paths for Testers,arial,14.03999996,484.5238037,7,H2
+2.3 Learning Objectives,arial,14.03999996,613.6738281,7,H2
+2.4 Entry Requirements,arial,14.03999996,156.9938049,8,H2
+2.5 Structure and Course Duration,arial,14.03999996,217.1138,8,H2
+2.6 Keeping It Current,arial,14.03999996,133.9537659,9,H2
+3. Overview of the Foundation Level Extension –  Agile Tester,arial,15.96000004,119.8561859,10,H1
+3.1 Business Outcomes,arial,14.03999996,187.9537659,10,H2
+3.2 Content,arial,14.03999996,533.0038452,10,H2
+4. References,arial,15.96000004,122.976181,12,H1
+4.1 Trademarks,arial,14.03999996,171.3937683,12,H2
+4.2 Documents and Web Sites,arial,14.03999996,257.4637756,12,H2
 Somalia Flood Exposure Methodology Note,robotoslabbold,16,142.3443756,1,title
 Analysis for 2024 HNRP,robotoslabregular,16,170.3443756,1,H1
-text,font,size,top,page,label
 Parsippany -Troy Hills STEM Pathways,calibribold,28.0072155,37.36959076,1,H1
-Mission Statement:� To provide PTHSD high school students with the opportunity to,snigletregular,14.00584984,88.69420624,1,body
-"concentrate their studies, beyond those required in high school, in the areas of science,",calibri,12.00479984,108.74646,1,body
-"technology, engineering, and mathematics, and expose students to relevant real world",calibri,12.00479984,123.0021362,1,body
-"experiences through project work, conferences and presentations to enhance their high school",calibri,12.00479984,137.257813,1,body
-experience.,calibri,12.00479984,151.5134888,1,body
+Mission Statement:� To provide PTHSD high school students with the opportunity to,snigletregular,14.00584984,88.69420624,1,O
+"concentrate their studies, beyond those required in high school, in the areas of science,",calibri,12.00479984,108.74646,1,O
+"technology, engineering, and mathematics, and expose students to relevant real world",calibri,12.00479984,123.0021362,1,O
+"experiences through project work, conferences and presentations to enhance their high school",calibri,12.00479984,137.257813,1,O
+experience.,calibri,12.00479984,151.5134888,1,O
 PATHWAY OPTIONS,snigletregular,15.30815983,438.1753845,1,H2
-REGULAR PATHWAY,calibribold,15.31019974,467.7545776,1,body
-●,arial,11.00758362,502.5859985,1,body
-4 credits of Math,arial,11.00758362,502.5859985,1,body
-●,arial,11.00758362,516.094971,1,body
-4 credits of Science,arial,11.00758362,516.094971,1,body
-●,arial,11.00758362,529.604004,1,body
-4 credits of STEM-designated electives,arial,11.00758362,529.604004,1,body
-●,arial,11.00758362,543.113037,1,body
-Maintain an overall 2.85 GPA,arial,11.00758362,543.113037,1,body
-●,arial,11.00758362,556.6220093,1,body
-Participate in a minimum of 3 STEM,arial,11.00758362,556.6220093,1,body
-presentations/conferences each year,arial,11.00758362,570.1309814,1,body
-with a required minimum total of 12,arial,11.00758362,583.6400146,1,body
-presentations/conferences throughout,arial,11.00758362,597.1490479,1,body
-the 4 years . *,arial,11.00758362,610.65802,1,body
-●,arial,11.00758362,624.166992,1,body
-Join and actively participate in a,arial,11.00758362,624.166992,1,body
-STEM-related extracurricular activity or,arial,11.00758362,637.676025,1,body
-club every year of attendance. -,arial,11.00758362,651.1849976,1,body
-DISTINCTION PATHWAY,calibribold,15.31019974,467.7545776,1,body
-●,arial,11.00758362,484.5746765,1,body
-4 credits of Math - At least one math,arial,11.00758362,484.5746765,1,body
-course should be an AP Math class.,arial,11.00758362,498.0836792,1,body
-●,arial,11.00758362,511.5926514,1,body
-4 credits of Science- At least one,arial,11.00758362,511.5926514,1,body
-science course should be an AP,arial,11.00758362,525.1016846,1,body
-Science class.,arial,11.00758362,538.6107178,1,body
-●,arial,11.00758362,552.1196899,1,body
-4 credits of STEM-designated electives,arial,11.00758362,552.1196899,1,body
-#NAME?,arial,11.00758362,565.628662,1,body
-Science/Technology Class,arial,11.00758362,579.137695,1,body
-●,arial,11.00758362,592.646729,1,body
-Maintain an overall 3.5 GPA,arial,11.00758362,592.646729,1,body
-●,arial,11.00758362,606.1557007,1,body
-Participate in a minimum of 3 STEM,arial,11.00758362,606.1557007,1,body
-presentations/conferences a year with a,arial,11.00758362,619.6646729,1,body
-required minimum total of 12,arial,11.00758362,633.1737061,1,body
-presentations/conferences throughout,arial,11.00758362,646.6827393,1,body
-the 4 years.,arial,11.00758362,660.1917114,1,body
-●,arial,11.00758362,673.700684,1,body
-Join and actively participate in a,arial,11.00758362,673.700684,1,body
-STEM-related extracurricular activity or,arial,11.00758362,687.209717,1,body
-club every year of attendance.,arial,11.00758362,700.71875,1,body
-●,arial,11.00758362,714.2277222,1,body
-Either participate in an internship or,arial,11.00758362,714.2277222,1,body
-design and implement a community,arial,11.00758362,727.7366943,1,body
-impact project.,arial,11.00758362,741.2457275,1,body
-Goals:,snigletregular,14.01144981,182.6382599,1,body
-"• Inspire keen interest in mathematics, science, engineering, and",arial,11.50894928,210.968811,1,body
-"technology, develop strong scholarship in the subject and",calibri,11.50894928,224.7802124,1,body
-promote the enjoyment of these studies in high school.,calibri,11.50894928,238.291016,1,body
-• Expose students to potential career opportunities in the field.,arial,11.50894928,251.499268,1,body
-• Encourage students to pursue higher education and major in,arial,11.50894928,265.0100708,1,body
-STEM careers.,calibri,11.50894928,278.8214722,1,body
-• Promote interactions with STEM professionals to learn about,calibri,11.50894928,292.332275,1,body
-future opportunities.,calibri,11.50894928,305.8430786,1,body
-• Support field experiences connected to the world outside of,calibri,11.50894928,319.3538818,1,body
-the school building.,calibri,11.50894928,332.8646851,1,body
-"• Signal to employers, universities, training programs, and",calibri,11.50894928,346.375488,1,body
-military that a student has completed a comprehensive course,calibri,11.50894928,359.8862915,1,body
-of study in a specialized area.,calibri,11.50894928,373.3970947,1,body
-"• Cultivate transferable work habits such as perseverance, goal",calibri,11.50894928,386.9078979,1,body
-"setting, and self-direction.",calibri,11.50894928,400.418701,1,body
+REGULAR PATHWAY,calibribold,15.31019974,467.7545776,1,O
+●,arial,11.00758362,502.5859985,1,O
+4 credits of Math,arial,11.00758362,502.5859985,1,O
+●,arial,11.00758362,516.094971,1,O
+4 credits of Science,arial,11.00758362,516.094971,1,O
+●,arial,11.00758362,529.604004,1,O
+4 credits of STEM-designated electives,arial,11.00758362,529.604004,1,O
+●,arial,11.00758362,543.113037,1,O
+Maintain an overall 2.85 GPA,arial,11.00758362,543.113037,1,O
+●,arial,11.00758362,556.6220093,1,O
+Participate in a minimum of 3 STEM,arial,11.00758362,556.6220093,1,O
+presentations/conferences each year,arial,11.00758362,570.1309814,1,O
+with a required minimum total of 12,arial,11.00758362,583.6400146,1,O
+presentations/conferences throughout,arial,11.00758362,597.1490479,1,O
+the 4 years . *,arial,11.00758362,610.65802,1,O
+●,arial,11.00758362,624.166992,1,O
+Join and actively participate in a,arial,11.00758362,624.166992,1,O
+STEM-related extracurricular activity or,arial,11.00758362,637.676025,1,O
+club every year of attendance. -,arial,11.00758362,651.1849976,1,O
+DISTINCTION PATHWAY,calibribold,15.31019974,467.7545776,1,O
+●,arial,11.00758362,484.5746765,1,O
+4 credits of Math - At least one math,arial,11.00758362,484.5746765,1,O
+course should be an AP Math class.,arial,11.00758362,498.0836792,1,O
+●,arial,11.00758362,511.5926514,1,O
+4 credits of Science- At least one,arial,11.00758362,511.5926514,1,O
+science course should be an AP,arial,11.00758362,525.1016846,1,O
+Science class.,arial,11.00758362,538.6107178,1,O
+●,arial,11.00758362,552.1196899,1,O
+4 credits of STEM-designated electives,arial,11.00758362,552.1196899,1,O
+#NAME?,arial,11.00758362,565.628662,1,O
+Science/Technology Class,arial,11.00758362,579.137695,1,O
+●,arial,11.00758362,592.646729,1,O
+Maintain an overall 3.5 GPA,arial,11.00758362,592.646729,1,O
+●,arial,11.00758362,606.1557007,1,O
+Participate in a minimum of 3 STEM,arial,11.00758362,606.1557007,1,O
+presentations/conferences a year with a,arial,11.00758362,619.6646729,1,O
+required minimum total of 12,arial,11.00758362,633.1737061,1,O
+presentations/conferences throughout,arial,11.00758362,646.6827393,1,O
+the 4 years.,arial,11.00758362,660.1917114,1,O
+●,arial,11.00758362,673.700684,1,O
+Join and actively participate in a,arial,11.00758362,673.700684,1,O
+STEM-related extracurricular activity or,arial,11.00758362,687.209717,1,O
+club every year of attendance.,arial,11.00758362,700.71875,1,O
+●,arial,11.00758362,714.2277222,1,O
+Either participate in an internship or,arial,11.00758362,714.2277222,1,O
+design and implement a community,arial,11.00758362,727.7366943,1,O
+impact project.,arial,11.00758362,741.2457275,1,O
+Goals:,snigletregular,14.01144981,182.6382599,1,O
+"• Inspire keen interest in mathematics, science, engineering, and",arial,11.50894928,210.968811,1,O
+"technology, develop strong scholarship in the subject and",calibri,11.50894928,224.7802124,1,O
+promote the enjoyment of these studies in high school.,calibri,11.50894928,238.291016,1,O
+• Expose students to potential career opportunities in the field.,arial,11.50894928,251.499268,1,O
+• Encourage students to pursue higher education and major in,arial,11.50894928,265.0100708,1,O
+STEM careers.,calibri,11.50894928,278.8214722,1,O
+• Promote interactions with STEM professionals to learn about,calibri,11.50894928,292.332275,1,O
+future opportunities.,calibri,11.50894928,305.8430786,1,O
+• Support field experiences connected to the world outside of,calibri,11.50894928,319.3538818,1,O
+the school building.,calibri,11.50894928,332.8646851,1,O
+"• Signal to employers, universities, training programs, and",calibri,11.50894928,346.375488,1,O
+military that a student has completed a comprehensive course,calibri,11.50894928,359.8862915,1,O
+of study in a specialized area.,calibri,11.50894928,373.3970947,1,O
+"• Cultivate transferable work habits such as perseverance, goal",calibri,11.50894928,386.9078979,1,O
+"setting, and self-direction.",calibri,11.50894928,400.418701,1,O
 Elective Course Offerings,snigletregular,22.0056152,42.51622009,2,H2
-Science,calibribold,12.00479984,89.8562012,2,body
-Math,calibribold,12.00479984,89.8562012,2,body
-Computer Science/,calibribold,12.00479984,89.8562012,2,body
-Technology,calibribold,12.00479984,104.1118774,2,body
-Art,calibribold,12.00479984,89.8562012,2,body
-Applied,calibribold,12.00479984,89.8562012,2,body
-Technology/,calibribold,12.00479984,104.1118774,2,body
-Family Consumer,calibribold,12.00479984,118.3675537,2,body
-Science and Other,calibribold,12.00479984,132.62323,2,body
-•,arial,11.00465012,153.5848694,2,body
-AP Biology,calibri,11.00465012,153.8722992,2,body
-•,arial,11.00465012,167.0902405,2,body
-AP Chemistry,calibri,11.00465012,167.3776703,2,body
-•,arial,11.00465012,180.5956116,2,body
-AP Physics C,calibri,11.00465012,180.8830414,2,body
-•,arial,11.00465012,194.1009827,2,body
-Forensics,calibri,11.00465012,194.3884125,2,body
-•,arial,11.00465012,207.6063538,2,body
-Honors Anatomy,calibri,11.00465012,207.8937836,2,body
-and Physiology,calibri,11.00465012,221.3991547,2,body
-•,arial,11.00465012,234.617218,2,body
-AP Environmental,calibri,11.00465012,234.9046478,2,body
-Science,calibri,11.00465012,248.4100189,2,body
-•,arial,11.00465012,261.6279602,2,body
-Marine Biology,calibri,11.00465012,261.9154053,2,body
-•,arial,11.00465012,275.1333618,2,body
-Organic Chemistry,calibri,11.00465012,275.4208069,2,body
-•,arial,11.00465012,288.6387634,2,body
-Genetics,calibri,11.00465012,288.9262085,2,body
-•,arial,11.00465012,302.144165,2,body
-Astronomy,calibri,11.00465012,302.4316101,2,body
-•,arial,11.00465012,315.6495667,2,body
-Bioethics,calibri,11.00465012,315.937012,2,body
-•,arial,11.00465012,329.1549683,2,body
-MythBusting: The,calibri,11.00465012,329.4424133,2,body
-Science of,calibri,11.00465012,342.9478149,2,body
-Literature and,calibri,11.00465012,356.4532166,2,body
-Films,calibri,11.00465012,369.95874,2,body
-•,arial,10.00374985,153.403564,2,body
-#NAME?,arialbold,6.669166565,152.2366486,2,body
-•,arial,10.00374985,165.4048462,2,body
-#NAME?,arialbold,6.669166565,164.2411041,2,body
-•,arial,10.00374985,177.409424,2,body
-#NAME?,arialbold,6.669166565,176.2457428,2,body
-•,arial,10.00374985,189.4139404,2,body
-"Probability,",arial,10.00374985,189.4139404,2,body
-"Statistics,",arial,10.00374985,201.4187622,2,body
-and Discrete,arial,10.00374985,213.423584,2,body
-Math,arial,10.00374985,225.4284058,2,body
-•,arial,10.00374985,237.4332275,2,body
-#NAME?,arialbold,6.669166565,236.2683258,2,body
-•,arial,10.00374985,249.436523,2,body
-Algebra 3 &,arial,10.00374985,249.436523,2,body
-Trigonometry,arial,10.00374985,261.4413452,2,body
-•,arial,10.00374985,273.4461365,2,body
-Applied Math,arial,10.00374985,273.4461365,2,body
-•,arial,10.00374985,285.450928,2,body
-Honors,arial,10.00374985,285.450928,2,body
-Accounting 1,arial,10.00374985,297.455719,2,body
-•,arial,10.00374985,309.4605103,2,body
-Investments,arial,10.00374985,309.4605103,2,body
-•,arial,10.00374985,321.4653015,2,body
-AP,arial,10.00374985,321.4653015,2,body
-Economics,arial,10.00374985,333.4700928,2,body
-•,arial,10.00374985,345.474884,2,body
-Business,arial,10.00374985,345.474884,2,body
-Org.,arial,10.00374985,357.4796753,2,body
-Management,arial,10.00374985,369.4844666,2,body
-•,arial,11.00465012,153.5838928,2,body
-Computer,calibri,11.00465012,153.8713226,2,body
-Programming in C++,calibri,11.00465012,167.3766937,2,body
-•,arial,11.00465012,180.594635,2,body
-Robotics,calibri,11.00465012,180.8820648,2,body
-•,arial,11.00465012,194.1000061,2,body
-Computer Science and,calibri,11.00465012,194.3874359,2,body
-Programming Concepts,calibri,11.00465012,207.892807,2,body
-with Python,calibri,11.00465012,221.3982391,2,body
-•,arial,11.00465012,234.6161804,2,body
-AP Computer Science,calibri,11.00465012,234.9036102,2,body
-Principles,calibri,11.00465012,248.4089813,2,body
-•,arial,11.00465012,261.6269226,2,body
-AP Computer Science A,calibri,11.00465012,261.9143677,2,body
-•,arial,11.00465012,275.132324,2,body
-Honors Data Structures,calibri,11.00465012,275.4197693,2,body
-and Advanced,calibri,11.00465012,288.9251709,2,body
-Programming,calibri,11.00465012,302.4307251,2,body
-•,arial,11.00465012,315.648682,2,body
-Networks (CCNA cert),arial,10.00374985,316.4255066,2,body
-•,arial,11.00465012,329.1540833,2,body
-"Switching, Routing, &",arial,10.00374985,329.930908,2,body
-Wireless Essentials,arial,10.00374985,342.4759216,2,body
-(CCNA cert),arial,10.00374985,354.480713,2,body
-•,arial,11.00465012,366.6690674,2,body
-Cybersecurity (CCNA,arial,10.00374985,367.4458923,2,body
-cert),arial,10.00374985,379.9909058,2,body
-•,arial,10.00374985,153.4025269,2,body
-Graphic,arial,10.00374985,153.4025269,2,body
-Design,arial,10.00374985,165.4073486,2,body
-•,arial,10.00374985,177.4121704,2,body
-Digital,arial,10.00374985,177.4121704,2,body
-Photography,arial,10.00374985,189.416992,2,body
-•,arial,10.00374985,201.421814,2,body
-Advanced,arial,10.00374985,201.421814,2,body
-Digital,arial,10.00374985,213.4266357,2,body
-Photography,arial,10.00374985,225.4314575,2,body
-***AP,arialbold,10.00374985,333.4678955,2,body
-Captsone -,arialbold,10.00374985,345.4726868,2,body
-Seminar and,arialbold,10.00374985,357.477478,2,body
-Research w/,arialbold,10.00374985,369.4822693,2,body
-advisor,arialbold,10.00374985,381.487061,2,body
-approval,arialbold,10.00374985,393.4918518,2,body
-•,arial,10.00374985,153.3995972,2,body
-Nutrition for an,arial,10.00374985,153.3995972,2,body
-Active Lifestyle,arial,10.00374985,165.4044189,2,body
-•,arial,10.00374985,177.4092407,2,body
-Engineering,arial,10.00374985,177.4092407,2,body
-CAD and Design,arial,10.00374985,189.414063,2,body
-Foundations,arial,10.00374985,201.4188843,2,body
-•,arial,10.00374985,213.4237061,2,body
-Television,arial,10.00374985,213.4237061,2,body
-Production I / II,arial,10.00374985,225.4292603,2,body
-•,arial,10.00374985,237.434082,2,body
-Careers in,arial,10.00374985,237.434082,2,body
-Medicine (Phys,arial,10.00374985,249.4389038,2,body
-Ed department),arial,10.00374985,261.4437256,2,body
-•,arial,10.00374985,273.4485168,2,body
-Woods Tech 1,arial,10.00374985,273.4483948,2,body
-and 2,arial,10.00374985,285.453186,2,body
-•,arial,10.00374985,297.4579773,2,body
-Honors,arial,10.00374985,297.4579773,2,body
-Engineering and,arial,10.00374985,309.4627686,2,body
-Design,arial,10.00374985,321.4675598,2,body
-For more information and our application please visit our website by clicking here .,arialbold,12.00640011,722.0094604,2,body
+Science,calibribold,12.00479984,89.8562012,2,O
+Math,calibribold,12.00479984,89.8562012,2,O
+Computer Science/,calibribold,12.00479984,89.8562012,2,O
+Technology,calibribold,12.00479984,104.1118774,2,O
+Art,calibribold,12.00479984,89.8562012,2,O
+Applied,calibribold,12.00479984,89.8562012,2,O
+Technology/,calibribold,12.00479984,104.1118774,2,O
+Family Consumer,calibribold,12.00479984,118.3675537,2,O
+Science and Other,calibribold,12.00479984,132.62323,2,O
+•,arial,11.00465012,153.5848694,2,O
+AP Biology,calibri,11.00465012,153.8722992,2,O
+•,arial,11.00465012,167.0902405,2,O
+AP Chemistry,calibri,11.00465012,167.3776703,2,O
+•,arial,11.00465012,180.5956116,2,O
+AP Physics C,calibri,11.00465012,180.8830414,2,O
+•,arial,11.00465012,194.1009827,2,O
+Forensics,calibri,11.00465012,194.3884125,2,O
+•,arial,11.00465012,207.6063538,2,O
+Honors Anatomy,calibri,11.00465012,207.8937836,2,O
+and Physiology,calibri,11.00465012,221.3991547,2,O
+•,arial,11.00465012,234.617218,2,O
+AP Environmental,calibri,11.00465012,234.9046478,2,O
+Science,calibri,11.00465012,248.4100189,2,O
+•,arial,11.00465012,261.6279602,2,O
+Marine Biology,calibri,11.00465012,261.9154053,2,O
+•,arial,11.00465012,275.1333618,2,O
+Organic Chemistry,calibri,11.00465012,275.4208069,2,O
+•,arial,11.00465012,288.6387634,2,O
+Genetics,calibri,11.00465012,288.9262085,2,O
+•,arial,11.00465012,302.144165,2,O
+Astronomy,calibri,11.00465012,302.4316101,2,O
+•,arial,11.00465012,315.6495667,2,O
+Bioethics,calibri,11.00465012,315.937012,2,O
+•,arial,11.00465012,329.1549683,2,O
+MythBusting: The,calibri,11.00465012,329.4424133,2,O
+Science of,calibri,11.00465012,342.9478149,2,O
+Literature and,calibri,11.00465012,356.4532166,2,O
+Films,calibri,11.00465012,369.95874,2,O
+•,arial,10.00374985,153.403564,2,O
+#NAME?,arialbold,6.669166565,152.2366486,2,O
+•,arial,10.00374985,165.4048462,2,O
+#NAME?,arialbold,6.669166565,164.2411041,2,O
+•,arial,10.00374985,177.409424,2,O
+#NAME?,arialbold,6.669166565,176.2457428,2,O
+•,arial,10.00374985,189.4139404,2,O
+"Probability,",arial,10.00374985,189.4139404,2,O
+"Statistics,",arial,10.00374985,201.4187622,2,O
+and Discrete,arial,10.00374985,213.423584,2,O
+Math,arial,10.00374985,225.4284058,2,O
+•,arial,10.00374985,237.4332275,2,O
+#NAME?,arialbold,6.669166565,236.2683258,2,O
+•,arial,10.00374985,249.436523,2,O
+Algebra 3 &,arial,10.00374985,249.436523,2,O
+Trigonometry,arial,10.00374985,261.4413452,2,O
+•,arial,10.00374985,273.4461365,2,O
+Applied Math,arial,10.00374985,273.4461365,2,O
+•,arial,10.00374985,285.450928,2,O
+Honors,arial,10.00374985,285.450928,2,O
+Accounting 1,arial,10.00374985,297.455719,2,O
+•,arial,10.00374985,309.4605103,2,O
+Investments,arial,10.00374985,309.4605103,2,O
+•,arial,10.00374985,321.4653015,2,O
+AP,arial,10.00374985,321.4653015,2,O
+Economics,arial,10.00374985,333.4700928,2,O
+•,arial,10.00374985,345.474884,2,O
+Business,arial,10.00374985,345.474884,2,O
+Org.,arial,10.00374985,357.4796753,2,O
+Management,arial,10.00374985,369.4844666,2,O
+•,arial,11.00465012,153.5838928,2,O
+Computer,calibri,11.00465012,153.8713226,2,O
+Programming in C++,calibri,11.00465012,167.3766937,2,O
+•,arial,11.00465012,180.594635,2,O
+Robotics,calibri,11.00465012,180.8820648,2,O
+•,arial,11.00465012,194.1000061,2,O
+Computer Science and,calibri,11.00465012,194.3874359,2,O
+Programming Concepts,calibri,11.00465012,207.892807,2,O
+with Python,calibri,11.00465012,221.3982391,2,O
+•,arial,11.00465012,234.6161804,2,O
+AP Computer Science,calibri,11.00465012,234.9036102,2,O
+Principles,calibri,11.00465012,248.4089813,2,O
+•,arial,11.00465012,261.6269226,2,O
+AP Computer Science A,calibri,11.00465012,261.9143677,2,O
+•,arial,11.00465012,275.132324,2,O
+Honors Data Structures,calibri,11.00465012,275.4197693,2,O
+and Advanced,calibri,11.00465012,288.9251709,2,O
+Programming,calibri,11.00465012,302.4307251,2,O
+•,arial,11.00465012,315.648682,2,O
+Networks (CCNA cert),arial,10.00374985,316.4255066,2,O
+•,arial,11.00465012,329.1540833,2,O
+"Switching, Routing, &",arial,10.00374985,329.930908,2,O
+Wireless Essentials,arial,10.00374985,342.4759216,2,O
+(CCNA cert),arial,10.00374985,354.480713,2,O
+•,arial,11.00465012,366.6690674,2,O
+Cybersecurity (CCNA,arial,10.00374985,367.4458923,2,O
+cert),arial,10.00374985,379.9909058,2,O
+•,arial,10.00374985,153.4025269,2,O
+Graphic,arial,10.00374985,153.4025269,2,O
+Design,arial,10.00374985,165.4073486,2,O
+•,arial,10.00374985,177.4121704,2,O
+Digital,arial,10.00374985,177.4121704,2,O
+Photography,arial,10.00374985,189.416992,2,O
+•,arial,10.00374985,201.421814,2,O
+Advanced,arial,10.00374985,201.421814,2,O
+Digital,arial,10.00374985,213.4266357,2,O
+Photography,arial,10.00374985,225.4314575,2,O
+***AP,arialbold,10.00374985,333.4678955,2,O
+Captsone -,arialbold,10.00374985,345.4726868,2,O
+Seminar and,arialbold,10.00374985,357.477478,2,O
+Research w/,arialbold,10.00374985,369.4822693,2,O
+advisor,arialbold,10.00374985,381.487061,2,O
+approval,arialbold,10.00374985,393.4918518,2,O
+•,arial,10.00374985,153.3995972,2,O
+Nutrition for an,arial,10.00374985,153.3995972,2,O
+Active Lifestyle,arial,10.00374985,165.4044189,2,O
+•,arial,10.00374985,177.4092407,2,O
+Engineering,arial,10.00374985,177.4092407,2,O
+CAD and Design,arial,10.00374985,189.414063,2,O
+Foundations,arial,10.00374985,201.4188843,2,O
+•,arial,10.00374985,213.4237061,2,O
+Television,arial,10.00374985,213.4237061,2,O
+Production I / II,arial,10.00374985,225.4292603,2,O
+•,arial,10.00374985,237.434082,2,O
+Careers in,arial,10.00374985,237.434082,2,O
+Medicine (Phys,arial,10.00374985,249.4389038,2,O
+Ed department),arial,10.00374985,261.4437256,2,O
+•,arial,10.00374985,273.4485168,2,O
+Woods Tech 1,arial,10.00374985,273.4483948,2,O
+and 2,arial,10.00374985,285.453186,2,O
+•,arial,10.00374985,297.4579773,2,O
+Honors,arial,10.00374985,297.4579773,2,O
+Engineering and,arial,10.00374985,309.4627686,2,O
+Design,arial,10.00374985,321.4675598,2,O
+For more information and our application please visit our website by clicking here .,arialbold,12.00640011,722.0094604,2,O
 What Colleges Say!,timesnewromanpsbold,18.01200104,480.8514709,2,H3
-"When asked the question, “Would participation in the",calibri,11.00904942,514.933838,2,body
-STEM Pathways set PTHSD students apart when applying,calibribold,11.00904942,528.4446411,2,body
-"to your school?”, colleges responded with the following:",calibribold,11.00904942,541.9554443,2,body
-SUNY Binghamton: “Yes. We are a R1 research institution,calibribold,11.00904942,568.977051,2,body
-and students with a strong STEM curriculum that includes,calibri,11.00904942,582.487854,2,body
-research or lab work are generally more competitive in our,calibri,11.00904942,595.9985962,2,body
-applicant pool and more success as students at,calibri,11.00904942,609.5094604,2,body
-Binghamton because of their early HS experience.”,calibri,11.00904942,623.0202026,2,body
-Towson University: “Participation in this program would,calibribold,11.00904942,650.0418091,2,body
-show us that the student is challenging him/herself in their,calibri,11.00904942,663.5526123,2,body
-courses which is something we look at when reviewing,calibri,11.00904942,677.0634155,2,body
-applications.”,calibri,11.00904942,690.574219,2,body
-"Drew University: “Yes,it would show that they are",calibribold,11.00904942,514.933838,2,body
-challenging themselves in the classroom.”,calibri,11.00904942,528.4446411,2,body
-NJIT: “Yes- this would demonstrate to Admissions that a,calibribold,11.00904942,555.4662476,2,body
-"student is interested in STEM programs, and would be a",calibri,11.00904942,568.9751587,2,body
-strong candidate for our programs.”,calibri,11.00904942,582.4859009,2,body
-"Ithaca College: “Yes, we look for students who participate",calibribold,11.00904942,609.5075073,2,body
-in classes and activities that enhance their knowledge and,calibri,11.00904942,623.018311,2,body
-skills in their area of interest.”,calibri,11.00904942,636.5291138,2,body
-Montclair University: “Rigorous math and science lab,calibribold,11.00904942,663.5507202,2,body
-classes beyond standard curriculum could be looked at for,calibri,11.00904942,677.061523,2,body
-scholarship eligibility along with high GPA.”,calibri,11.00904942,690.5723267,2,body
+"When asked the question, “Would participation in the",calibri,11.00904942,514.933838,2,O
+STEM Pathways set PTHSD students apart when applying,calibribold,11.00904942,528.4446411,2,O
+"to your school?”, colleges responded with the following:",calibribold,11.00904942,541.9554443,2,O
+SUNY Binghamton: “Yes. We are a R1 research institution,calibribold,11.00904942,568.977051,2,O
+and students with a strong STEM curriculum that includes,calibri,11.00904942,582.487854,2,O
+research or lab work are generally more competitive in our,calibri,11.00904942,595.9985962,2,O
+applicant pool and more success as students at,calibri,11.00904942,609.5094604,2,O
+Binghamton because of their early HS experience.”,calibri,11.00904942,623.0202026,2,O
+Towson University: “Participation in this program would,calibribold,11.00904942,650.0418091,2,O
+show us that the student is challenging him/herself in their,calibri,11.00904942,663.5526123,2,O
+courses which is something we look at when reviewing,calibri,11.00904942,677.0634155,2,O
+applications.”,calibri,11.00904942,690.574219,2,O
+"Drew University: “Yes,it would show that they are",calibribold,11.00904942,514.933838,2,O
+challenging themselves in the classroom.”,calibri,11.00904942,528.4446411,2,O
+NJIT: “Yes- this would demonstrate to Admissions that a,calibribold,11.00904942,555.4662476,2,O
+"student is interested in STEM programs, and would be a",calibri,11.00904942,568.9751587,2,O
+strong candidate for our programs.”,calibri,11.00904942,582.4859009,2,O
+"Ithaca College: “Yes, we look for students who participate",calibribold,11.00904942,609.5075073,2,O
+in classes and activities that enhance their knowledge and,calibri,11.00904942,623.018311,2,O
+skills in their area of interest.”,calibri,11.00904942,636.5291138,2,O
+Montclair University: “Rigorous math and science lab,calibribold,11.00904942,663.5507202,2,O
+classes beyond standard curriculum could be looked at for,calibri,11.00904942,677.061523,2,O
+scholarship eligibility along with high GPA.”,calibri,11.00904942,690.5723267,2,O
+Parsippany -Troy Hills STEM Pathways,calibribold,28.0072155,37.36959076,1,H1
+Mission Statement:  To provide PTHSD high school students with the opportunity to,snigletregular,14.00584984,88.69420624,1,O
+"concentrate their studies, beyond those required in high school, in the areas of science,",calibri,12.00479984,108.74646,1,O
+"technology, engineering, and mathematics, and expose students to relevant real world",calibri,12.00479984,123.0021362,1,O
+"experiences through project work, conferences and presentations to enhance their high school",calibri,12.00479984,137.2578125,1,O
+experience.,calibri,12.00479984,151.5134888,1,O
+PATHWAY OPTIONS,snigletregular,15.30815983,438.1753845,1,H2
+REGULAR PATHWAY,calibribold,15.31019974,467.7545776,1,O
+●,arial,11.00758362,502.5859985,1,O
+4 credits of Math,arial,11.00758362,502.5859985,1,O
+●,arial,11.00758362,516.0949707,1,O
+4 credits of Science,arial,11.00758362,516.0949707,1,O
+●,arial,11.00758362,529.6040039,1,O
+4 credits of STEM-designated electives,arial,11.00758362,529.6040039,1,O
+●,arial,11.00758362,543.1130371,1,O
+Maintain an overall 2.85 GPA,arial,11.00758362,543.1130371,1,O
+●,arial,11.00758362,556.6220093,1,O
+Participate in a minimum of 3 STEM,arial,11.00758362,556.6220093,1,O
+presentations/conferences each year,arial,11.00758362,570.1309814,1,O
+with a required minimum total of 12,arial,11.00758362,583.6400146,1,O
+presentations/conferences throughout,arial,11.00758362,597.1490479,1,O
+the 4 years . *,arial,11.00758362,610.65802,1,O
+●,arial,11.00758362,624.1669922,1,O
+Join and actively participate in a,arial,11.00758362,624.1669922,1,O
+STEM-related extracurricular activity or,arial,11.00758362,637.6760254,1,O
+club every year of attendance. -,arial,11.00758362,651.1849976,1,O
+DISTINCTION PATHWAY,calibribold,15.31019974,467.7545776,1,O
+●,arial,11.00758362,484.5746765,1,O
+4 credits of Math - At least one math,arial,11.00758362,484.5746765,1,O
+course should be an AP Math class.,arial,11.00758362,498.0836792,1,O
+●,arial,11.00758362,511.5926514,1,O
+4 credits of Science- At least one,arial,11.00758362,511.5926514,1,O
+science course should be an AP,arial,11.00758362,525.1016846,1,O
+Science class.,arial,11.00758362,538.6107178,1,O
+●,arial,11.00758362,552.1196899,1,O
+4 credits of STEM-designated electives,arial,11.00758362,552.1196899,1,O
+#NAME?,arial,11.00758362,565.6286621,1,O
+Science/Technology Class,arial,11.00758362,579.1376953,1,O
+●,arial,11.00758362,592.6467285,1,O
+Maintain an overall 3.5 GPA,arial,11.00758362,592.6467285,1,O
+●,arial,11.00758362,606.1557007,1,O
+Participate in a minimum of 3 STEM,arial,11.00758362,606.1557007,1,O
+presentations/conferences a year with a,arial,11.00758362,619.6646729,1,O
+required minimum total of 12,arial,11.00758362,633.1737061,1,O
+presentations/conferences throughout,arial,11.00758362,646.6827393,1,O
+the 4 years.,arial,11.00758362,660.1917114,1,O
+●,arial,11.00758362,673.7006836,1,O
+Join and actively participate in a,arial,11.00758362,673.7006836,1,O
+STEM-related extracurricular activity or,arial,11.00758362,687.2097168,1,O
+club every year of attendance.,arial,11.00758362,700.71875,1,O
+●,arial,11.00758362,714.2277222,1,O
+Either participate in an internship or,arial,11.00758362,714.2277222,1,O
+design and implement a community,arial,11.00758362,727.7366943,1,O
+impact project.,arial,11.00758362,741.2457275,1,O
+Goals:,snigletregular,14.01144981,182.6382599,1,O
+"• Inspire keen interest in mathematics, science, engineering, and",arial,11.50894928,210.968811,1,O
+"technology, develop strong scholarship in the subject and",calibri,11.50894928,224.7802124,1,O
+promote the enjoyment of these studies in high school.,calibri,11.50894928,238.2910156,1,O
+• Expose students to potential career opportunities in the field.,arial,11.50894928,251.4992676,1,O
+• Encourage students to pursue higher education and major in,arial,11.50894928,265.0100708,1,O
+STEM careers.,calibri,11.50894928,278.8214722,1,O
+• Promote interactions with STEM professionals to learn about,calibri,11.50894928,292.3322754,1,O
+future opportunities.,calibri,11.50894928,305.8430786,1,O
+• Support field experiences connected to the world outside of,calibri,11.50894928,319.3538818,1,O
+the school building.,calibri,11.50894928,332.8646851,1,O
+"• Signal to employers, universities, training programs, and",calibri,11.50894928,346.3754883,1,O
+military that a student has completed a comprehensive course,calibri,11.50894928,359.8862915,1,O
+of study in a specialized area.,calibri,11.50894928,373.3970947,1,O
+"• Cultivate transferable work habits such as perseverance, goal",calibri,11.50894928,386.9078979,1,O
+"setting, and self-direction.",calibri,11.50894928,400.4187012,1,O
+Elective Course Offerings,snigletregular,22.00561523,42.51622009,2,H2
+Science,calibribold,12.00479984,89.85620117,2,O
+Math,calibribold,12.00479984,89.85620117,2,O
+Computer Science/,calibribold,12.00479984,89.85620117,2,O
+Technology,calibribold,12.00479984,104.1118774,2,O
+Art,calibribold,12.00479984,89.85620117,2,O
+Applied,calibribold,12.00479984,89.85620117,2,O
+Technology/,calibribold,12.00479984,104.1118774,2,O
+Family Consumer,calibribold,12.00479984,118.3675537,2,O
+Science and Other,calibribold,12.00479984,132.62323,2,O
+•,arial,11.00465012,153.5848694,2,O
+AP Biology,calibri,11.00465012,153.8722992,2,O
+•,arial,11.00465012,167.0902405,2,O
+AP Chemistry,calibri,11.00465012,167.3776703,2,O
+•,arial,11.00465012,180.5956116,2,O
+AP Physics C,calibri,11.00465012,180.8830414,2,O
+•,arial,11.00465012,194.1009827,2,O
+Forensics,calibri,11.00465012,194.3884125,2,O
+•,arial,11.00465012,207.6063538,2,O
+Honors Anatomy,calibri,11.00465012,207.8937836,2,O
+and Physiology,calibri,11.00465012,221.3991547,2,O
+•,arial,11.00465012,234.617218,2,O
+AP Environmental,calibri,11.00465012,234.9046478,2,O
+Science,calibri,11.00465012,248.4100189,2,O
+•,arial,11.00465012,261.6279602,2,O
+Marine Biology,calibri,11.00465012,261.9154053,2,O
+•,arial,11.00465012,275.1333618,2,O
+Organic Chemistry,calibri,11.00465012,275.4208069,2,O
+•,arial,11.00465012,288.6387634,2,O
+Genetics,calibri,11.00465012,288.9262085,2,O
+•,arial,11.00465012,302.144165,2,O
+Astronomy,calibri,11.00465012,302.4316101,2,O
+•,arial,11.00465012,315.6495667,2,O
+Bioethics,calibri,11.00465012,315.9370117,2,O
+•,arial,11.00465012,329.1549683,2,O
+MythBusting: The,calibri,11.00465012,329.4424133,2,O
+Science of,calibri,11.00465012,342.9478149,2,O
+Literature and,calibri,11.00465012,356.4532166,2,O
+Films,calibri,11.00465012,369.9587402,2,O
+•,arial,10.00374985,153.4035645,2,O
+#NAME?,arialbold,6.669166565,152.2366486,2,O
+•,arial,10.00374985,165.4048462,2,O
+#NAME?,arialbold,6.669166565,164.2411041,2,O
+•,arial,10.00374985,177.4094238,2,O
+#NAME?,arialbold,6.669166565,176.2457428,2,O
+•,arial,10.00374985,189.4139404,2,O
+"Probability,",arial,10.00374985,189.4139404,2,O
+"Statistics,",arial,10.00374985,201.4187622,2,O
+and Discrete,arial,10.00374985,213.423584,2,O
+Math,arial,10.00374985,225.4284058,2,O
+•,arial,10.00374985,237.4332275,2,O
+#NAME?,arialbold,6.669166565,236.2683258,2,O
+•,arial,10.00374985,249.4365234,2,O
+Algebra 3 &,arial,10.00374985,249.4365234,2,O
+Trigonometry,arial,10.00374985,261.4413452,2,O
+•,arial,10.00374985,273.4461365,2,O
+Applied Math,arial,10.00374985,273.4461365,2,O
+•,arial,10.00374985,285.4509277,2,O
+Honors,arial,10.00374985,285.4509277,2,O
+Accounting 1,arial,10.00374985,297.455719,2,O
+•,arial,10.00374985,309.4605103,2,O
+Investments,arial,10.00374985,309.4605103,2,O
+•,arial,10.00374985,321.4653015,2,O
+AP,arial,10.00374985,321.4653015,2,O
+Economics,arial,10.00374985,333.4700928,2,O
+•,arial,10.00374985,345.474884,2,O
+Business,arial,10.00374985,345.474884,2,O
+Org.,arial,10.00374985,357.4796753,2,O
+Management,arial,10.00374985,369.4844666,2,O
+•,arial,11.00465012,153.5838928,2,O
+Computer,calibri,11.00465012,153.8713226,2,O
+Programming in C++,calibri,11.00465012,167.3766937,2,O
+•,arial,11.00465012,180.594635,2,O
+Robotics,calibri,11.00465012,180.8820648,2,O
+•,arial,11.00465012,194.1000061,2,O
+Computer Science and,calibri,11.00465012,194.3874359,2,O
+Programming Concepts,calibri,11.00465012,207.892807,2,O
+with Python,calibri,11.00465012,221.3982391,2,O
+•,arial,11.00465012,234.6161804,2,O
+AP Computer Science,calibri,11.00465012,234.9036102,2,O
+Principles,calibri,11.00465012,248.4089813,2,O
+•,arial,11.00465012,261.6269226,2,O
+AP Computer Science A,calibri,11.00465012,261.9143677,2,O
+•,arial,11.00465012,275.1323242,2,O
+Honors Data Structures,calibri,11.00465012,275.4197693,2,O
+and Advanced,calibri,11.00465012,288.9251709,2,O
+Programming,calibri,11.00465012,302.4307251,2,O
+•,arial,11.00465012,315.6486816,2,O
+Networks (CCNA cert),arial,10.00374985,316.4255066,2,O
+•,arial,11.00465012,329.1540833,2,O
+"Switching, Routing, &",arial,10.00374985,329.9309082,2,O
+Wireless Essentials,arial,10.00374985,342.4759216,2,O
+(CCNA cert),arial,10.00374985,354.4807129,2,O
+•,arial,11.00465012,366.6690674,2,O
+Cybersecurity (CCNA,arial,10.00374985,367.4458923,2,O
+cert),arial,10.00374985,379.9909058,2,O
+•,arial,10.00374985,153.4025269,2,O
+Graphic,arial,10.00374985,153.4025269,2,O
+Design,arial,10.00374985,165.4073486,2,O
+•,arial,10.00374985,177.4121704,2,O
+Digital,arial,10.00374985,177.4121704,2,O
+Photography,arial,10.00374985,189.4169922,2,O
+•,arial,10.00374985,201.421814,2,O
+Advanced,arial,10.00374985,201.421814,2,O
+Digital,arial,10.00374985,213.4266357,2,O
+Photography,arial,10.00374985,225.4314575,2,O
+***AP,arialbold,10.00374985,333.4678955,2,O
+Captsone -,arialbold,10.00374985,345.4726868,2,O
+Seminar and,arialbold,10.00374985,357.477478,2,O
+Research w/,arialbold,10.00374985,369.4822693,2,O
+advisor,arialbold,10.00374985,381.4870605,2,O
+approval,arialbold,10.00374985,393.4918518,2,O
+•,arial,10.00374985,153.3995972,2,O
+Nutrition for an,arial,10.00374985,153.3995972,2,O
+Active Lifestyle,arial,10.00374985,165.4044189,2,O
+•,arial,10.00374985,177.4092407,2,O
+Engineering,arial,10.00374985,177.4092407,2,O
+CAD and Design,arial,10.00374985,189.4140625,2,O
+Foundations,arial,10.00374985,201.4188843,2,O
+•,arial,10.00374985,213.4237061,2,O
+Television,arial,10.00374985,213.4237061,2,O
+Production I / II,arial,10.00374985,225.4292603,2,O
+•,arial,10.00374985,237.434082,2,O
+Careers in,arial,10.00374985,237.434082,2,O
+Medicine (Phys,arial,10.00374985,249.4389038,2,O
+Ed department),arial,10.00374985,261.4437256,2,O
+•,arial,10.00374985,273.4485168,2,O
+Woods Tech 1,arial,10.00374985,273.4483948,2,O
+and 2,arial,10.00374985,285.453186,2,O
+•,arial,10.00374985,297.4579773,2,O
+Honors,arial,10.00374985,297.4579773,2,O
+Engineering and,arial,10.00374985,309.4627686,2,O
+Design,arial,10.00374985,321.4675598,2,O
+For more information and our application please visit our website by clicking here .,arialbold,12.00640011,722.0094604,2,O
+What Colleges Say!,timesnewromanpsbold,18.01200104,480.8514709,2,H3
+"When asked the question, “Would participation in the",calibri,11.00904942,514.9338379,2,O
+STEM Pathways set PTHSD students apart when applying,calibribold,11.00904942,528.4446411,2,O
+"to your school?”, colleges responded with the following:",calibribold,11.00904942,541.9554443,2,O
+SUNY Binghamton: “Yes. We are a R1 research institution,calibribold,11.00904942,568.9770508,2,O
+and students with a strong STEM curriculum that includes,calibri,11.00904942,582.487854,2,O
+research or lab work are generally more competitive in our,calibri,11.00904942,595.9985962,2,O
+applicant pool and more success as students at,calibri,11.00904942,609.5094604,2,O
+Binghamton because of their early HS experience.”,calibri,11.00904942,623.0202026,2,O
+Towson University: “Participation in this program would,calibribold,11.00904942,650.0418091,2,O
+show us that the student is challenging him/herself in their,calibri,11.00904942,663.5526123,2,O
+courses which is something we look at when reviewing,calibri,11.00904942,677.0634155,2,O
+applications.”,calibri,11.00904942,690.5742188,2,O
+"Drew University: “Yes,it would show that they are",calibribold,11.00904942,514.9338379,2,O
+challenging themselves in the classroom.”,calibri,11.00904942,528.4446411,2,O
+NJIT: “Yes- this would demonstrate to Admissions that a,calibribold,11.00904942,555.4662476,2,O
+"student is interested in STEM programs, and would be a",calibri,11.00904942,568.9751587,2,O
+strong candidate for our programs.”,calibri,11.00904942,582.4859009,2,O
+"Ithaca College: “Yes, we look for students who participate",calibribold,11.00904942,609.5075073,2,O
+in classes and activities that enhance their knowledge and,calibri,11.00904942,623.0183105,2,O
+skills in their area of interest.”,calibri,11.00904942,636.5291138,2,O
+Montclair University: “Rigorous math and science lab,calibribold,11.00904942,663.5507202,2,O
+classes beyond standard curriculum could be looked at for,calibri,11.00904942,677.0615234,2,O
+scholarship eligibility along with high GPA.”,calibri,11.00904942,690.5723267,2,O
+RFP:Request for Proposal To Present a Proposal for Developing the Business Plan for the Ontario Digital Library,arialblack,32.04000092,156.5159454,1,title
+"March 21, 2003",arial,20.04000092,342.4638062,1,O
+"The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that",comicsansms,9.960000038,694.2640991,1,O
+all Ontario citizens have access to the knowledge and learning supports needed to be life-long,comicsansms,9.960000038,708.1881714,1,O
+learners and effective contributors towards Ontario's prosperity.,comicsansms,9.960000038,722.1122437,1,O
+Ontario's Digital Library,arialblack,20.04000092,88.59601593,2,H1
+A Critical Component for Implementing Ontario's Road Map to,arial,15.96000004,120.3160858,2,H1
+Prosperity Strategy,arial,15.96000004,138.6700897,2,O
+Summary,arialblack,12,195.719986,2,H2
+The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to,arial,11.03999996,228.5688019,2,O
+present a proposal for developing the business plan for the Ontario Digital Library (ODL).,arial,11.03999996,241.1654205,2,O
+The ODL will deliver high-quality library electronic content to all Ontario residents in order to,arial,11.03999996,253.8834991,2,O
+"assist people as they learn, work, and enhance their quality of life. The business plan to be",arial,11.03999996,266.6015625,2,O
+developed is to document and clearly communicate:,arial,11.03999996,279.1982117,2,O
+"how the ODL will be implemented, including the timeline",arial,11.03999996,303.9167786,2,O
+the financial plan for the implementation,arial,11.03999996,316.5134277,2,O
+"the financial plan for the first 2 operating years, including capital and operating costs,",arial,11.03999996,329.1100769,2,O
+"revenues, etc.",arial,11.03999996,341.8281555,2,O
+a financial forecast for the succeeding 2 operating years,arial,11.03999996,354.4248047,2,O
+the services and products to be delivered by the ODL,arial,11.03999996,367.1428833,2,O
+how the ODL will operate and be managed following the implementation,arial,11.03999996,379.7395325,2,O
+"who will be involved, and what their role/responsibility will be, for both the",arial,11.03999996,392.3361816,2,O
+implementation and operational stages,arial,11.03999996,405.0542603,2,O
+the marketing and communications plan for the ODL,arial,11.03999996,417.6509094,2,O
+This business plan must be completed and approved by the ODL Steering Committee no,arial,11.03999996,442.9766235,2,O
+"later than September 30, 2003",arial,11.03999996,455.5732727,2,O
+Timeline:,arialitalic,11.03999996,480.2918396,2,H3
+Those firms/consultants intended to submit a proposal to this RFP must indicate their,arial,11.03999996,504.888916,2,O
+intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by April 11 th .,arial,11.03999996,517.6070557,2,O
+"Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",arial,11.03999996,542.2459106,2,O
+"( lmoore@accessola.com ), Executive Director, The Ontario Library Association, 100 Lombard",arial,11.03999996,554.8425293,2,O
+"St., Suite 303, Toronto, ON  M5C 1M3. Proposals must be received by Noon on Monday,",arial,9.960000038,568.545105,2,O
+"April 21, 2003.",arialbolditalic,11.03999996,580.1654053,2,O
+Those proposals that are short-listed will be invited to discuss their proposal during the week,arial,11.03999996,604.8839722,2,O
+"of April 28, 2003 . No presentation will be expected. Firms or consultants invited to an",arial,11.03999996,617.4805908,2,O
+interview will be expected to discuss the project and their approach with the selection,arial,11.03999996,630.1987305,2,O
+committee .,arial,11.03999996,642.7953491,2,O
+"Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",arial,11.03999996,667.3924561,2,O
+commence as soon as possible thereafter.,arial,11.03999996,680.1105347,2,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,2,O
+Mar-03,arialbolditalic,7.559999943,734.038208,2,O
+2,arialblackitalic,9,730.9798584,2,O
+Please note that we reserve the right not to select any of the submitted proposals and may,arial,11.03999996,72.20881653,3,O
+seek further response to these Terms of Reference.,arial,11.03999996,84.80543518,3,O
+"If you require further information or have any questions, please contact Michael Ridley by e-",arial,11.03999996,109.5240021,3,O
+mail ( mridley@uoguelph.ca ) only by 3:00 p.m. on Friday April 18th . All questions and,arial,11.03999996,122.1206207,3,O
+responses will be shared with those who have indicated that they will be submitting a,arial,11.03999996,134.8386993,3,O
+"proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",arial,11.03999996,147.435318,3,O
+Ridley by April 11 th that they will be submitting a proposal will not receive any further,arial,11.03999996,160.0319366,3,O
+information or question responses.,arial,11.03999996,172.766861,3,O
+Background,arialblack,12,206.1599884,3,H2
+"First, some background on the ODL. For the last two years the Ontario Library Association",arial,11.03999996,239.1287994,3,O
+"has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",arial,11.03999996,251.7254181,3,O
+"Digital Library (ODL). These stakeholders include Ontario's 5000+ public libraries, university,",arial,11.03999996,264.3220215,3,O
+"college, and school libraries, as well as Ontario government ministries.",arial,11.03999996,277.0401001,3,O
+Libraries that serve very different clientele recognize that by working together they can create,arial,11.03999996,301.637207,3,O
+"seamless access to quality electronic library services. Through the ODL, students will be",arial,11.03999996,314.3552856,3,O
+"able to explore a topic at school, use the same child-safe resources after school (either at",arial,11.03999996,326.9519348,3,O
+"home or at a public library), enter college or university with a knowledge of how to use",arial,11.03999996,339.548584,3,O
+"electronic resources that are still available and then, after graduation, continue to use these",arial,11.03999996,352.2666626,3,O
+skills and resources at work or at home.,arial,11.03999996,364.8633118,3,O
+We are moving into a period of convergence. With convergence we no longer have to license,arial,11.03999996,389.5818787,3,O
+commercial products as individual libraries or institutions. We can work together to spend our,arial,11.03999996,402.1785278,3,O
+money wisely. The provincial government has made this possible by working hard to provide,arial,11.03999996,414.775177,3,O
+"all Ontarians with a stable, high-speed communications infrastructure. While there is still a",arial,11.03999996,427.4932556,3,O
+"great deal of work needed to improve this infrastructure, libraries are beginning to plan how",arial,11.03999996,440.0899048,3,O
+best to exploit communications technology. We can reduce barriers to access and create the,arial,11.03999996,452.8079834,3,O
+content infrastructure needed to support a knowledge society.,arial,11.03999996,465.4046326,3,O
+"The concept of an ODL is a key element in The Roadmap to Prosperity , a strategic plan to",arial,11.03999996,490.0017395,3,O
+envision and attain Ontario's economic goal prepared by the Ontario Jobs and Investment,arial,11.03999996,502.7198486,3,O
+Board. The OJIB strategic plan recommends an electronic library to “connect students to new,arial,11.03999996,515.3164673,3,O
+"workplaces, new sources of information and applied learning opportunities”. The ODL will do",arial,11.03999996,528.0345459,3,O
+"that and much more. The ODL will connect students to electronic information, and will also",arial,11.03999996,540.6311646,3,O
+leverage this investment to help connect all citizens to the electronic information they need as,arial,11.03999996,553.2277832,3,O
+"they make decisions, solve problems and enhance their quality of life.",arial,11.03999996,565.9459229,3,O
+Libraries have long been a key delivery point for public services. The ODL will allow that,arial,11.03999996,591.2716675,3,O
+"delivery point to move closer to citizens, into the smallest of libraries and even into living",arial,11.03999996,603.8682861,3,O
+rooms.,arial,11.03999996,616.5863647,3,O
+"Libraries have a long tradition of using a practical, consultative approach to solving problems,",arial,11.03999996,641.7906494,3,O
+and of learning from others. The ODL is a very practical solution to various problems.,arial,11.03999996,654.5087891,3,O
+Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is,arial,11.03999996,679.8345337,3,O
+leading edge for Ontario but several jurisdictions have forged the path with collaborative,arial,11.03999996,692.4311523,3,O
+"digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",arial,11.03999996,705.027832,3,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,3,O
+Mar-03,arialbolditalic,7.559999943,734.038208,3,O
+3,arialblackitalic,9,730.9798584,3,O
+was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively,arial,11.03999996,72.12049866,4,O
+with its members to promote universal access to materials and resources in more than 250,arial,11.03999996,84.71711731,4,O
+"public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",arial,11.03999996,97.43519592,4,O
+"not include elementary or secondary schools. However, the timeline and funding we are",arial,11.03999996,110.0318146,4,O
+proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several,arial,11.03999996,122.7498932,4,O
+years. TAL’s implementation plan was supported by 8 million dollars in provincially shared,arial,11.03999996,135.3465118,4,O
+"funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",arial,11.03999996,147.9431305,4,O
+"Alberta’s population 30% of Ontario's, TAL does not include elementary or secondary",arial,11.03999996,160.6612091,4,O
+schools as partners; it has 250 member libraries. ODL envisions universal access for all,arial,11.03999996,173.2578278,4,O
+"10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",arial,11.03999996,185.9759064,4,O
+"learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",arial,11.03999996,198.572525,4,O
+TAL.,arial,11.03999996,211.1691437,4,O
+The ODL will be a partnership-based organization providing seamless electronic information,arial,11.03999996,236.4948883,4,O
+services and resources to the citizens of Ontario. It will use local libraries as the entry point for,arial,11.03999996,249.2129669,4,O
+common resources The ODL will recognize the unique responsibilities and needs of public,arial,11.03999996,261.8095703,4,O
+"libraries, school libraries, college and university libraries and special libraries. The ODL",arial,11.03999996,274.5276489,4,O
+"envisions a digital network of information resources, allowing members to collaborate when",arial,11.03999996,287.1242981,4,O
+there is mutual benefit and to support the common mandates of local libraries.,arial,11.03999996,299.7209473,4,O
+The principles which will define and guide the ODL are:,arial,11.03999996,324.4395142,4,O
+Equitable access for all Ontarians:,arialbolditalic,11.03999996,349.0366211,4,H3
+"We will bring consistent, high-quality electronic resources and services to 10 million",arial,11.03999996,373.755188,4,O
+Ontario citizens,arial,11.03999996,386.3518372,4,O
+We will eliminate barriers to the access to information and create more consistent,arial,11.03999996,410.9489441,4,O
+services for library clients.,arial,11.03999996,423.6670227,4,O
+Shared decision-making and accountability:,arialbolditalic,11.03999996,448.2641296,4,H3
+We will facilitate consensus among members regarding ODL’s portfolio of electronic,arial,11.03999996,472.9826965,4,O
+licenses and services,arial,11.03999996,485.5793457,4,O
+We will balance the interests and realities of small and large as well as rich and poor,arial,11.03999996,510.1764526,4,O
+communities and institutions.,arial,11.03999996,522.8945313,4,O
+Shared governance structure:,arialbolditalic,11.03999996,547.4916382,4,H3
+We will share decision-making in order to enable the people we serve.,arial,11.03999996,572.2102051,4,O
+We will work based on an underlying assumption of trust and synergy.,arial,11.03999996,596.807373,4,O
+Shared funding:,arialbolditalic,11.03999996,621.40448,4,H3
+"We will leverage provincial, institutional, and local dollars to realize economies of scale",arial,11.03999996,646.1230469,4,O
+and put Ontario dollars to work for everyone .,arial,11.03999996,658.7196655,4,O
+We will be willing to pool talents and dollars in order to provide common services that are,arial,11.03999996,683.4382324,4,O
+truly greater than those that can be maintained by individual institutions.,arial,11.03999996,696.0348511,4,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,4,O
+Mar-03,arialbolditalic,7.559999943,734.038208,4,O
+4,arialblackitalic,9,730.9798584,4,O
+Local points of entry:,arialbolditalic,11.03999996,72.10939026,5,H3
+"We will provide the licenses, infrastructure, services and support that enable local",arial,11.03999996,97.43519592,5,O
+"libraries to provide exceptional services to their clientele. ODL will focus on support,",arial,11.03999996,110.0318146,5,O
+"providing the underpinning, not overshadowing.",arial,11.03999996,122.7498932,5,O
+Services envisioned for the ODL’s include:,arial,11.03999996,147.9542389,5,O
+Access:,arialbolditalic,11.03999996,173.2799835,5,H3
+"to the “deep” web (i.e. Commercial, purchased electronic services)",arial,11.03999996,185.9980621,5,O
+to credible web sites and electronic resources,arial,11.03999996,198.5946808,5,O
+to digital government information,arial,11.03999996,211.1912994,5,O
+to local digital collections,arial,11.03999996,223.9093781,5,O
+Guidance and Advice:,arialbolditalic,11.03999996,249.2352448,5,H3
+to support e-learning,arial,11.03999996,261.8318481,5,O
+"to support citizens, in real-time, as they try to use electronic resources",arial,11.03999996,274.5499268,5,O
+to assist citizens as they use web-links,arial,11.03999996,287.1465759,5,O
+Training:,arialbolditalic,11.03999996,299.7432251,5,H3
+for library workers,arial,11.03999996,312.4613037,5,O
+for the general public,arial,11.03999996,325.0579529,5,O
+Provincial Purchasing & Licensing:,arialbolditalic,11.03999996,350.3836975,5,H3
+of electronic content on a consortia basis for all member libraries,arial,11.03999996,362.9803467,5,O
+Technological Support:,arialbolditalic,11.03999996,388.3060913,5,H3
+of common standards for the preservation and archiving local digital content,arial,11.03999996,401.0241699,5,O
+of a common interface to ODL resources and services that can be imbedded in local,arial,11.03999996,413.6208191,5,O
+library web sites,arial,11.03999996,426.2174377,5,O
+What could the ODL really mean?,arialblack,11.03999996,466.1822205,5,H3
+For each Ontario citizen it could mean:,arialbold,11.03999996,493.7712097,5,H4
+One local point of entry to access seamless electronic library services and,arial,11.03999996,506.6107178,5,O
+"resources for their personal, educational and professional needs;",arial,11.03999996,519.2073975,5,O
+"Access to credible, high-quality, user-friendly electronic services through their",arial,11.03999996,531.925415,5,O
+"community, school, or academic library;",arial,11.03999996,544.5220337,5,O
+Confidence that the electronic services and sources they – and their children,arial,11.03999996,557.1186523,5,O
+"– are using are safe, valid, and bringing them both global and local",arial,11.03999996,569.836731,5,O
+perspectives;,arial,11.03999996,582.4334106,5,O
+Electronic information and tools that enhance job skills and the learning,arial,11.03999996,595.1514893,5,O
+experience,arial,11.03999996,607.7481689,5,O
+For each Ontario student it could mean:,arialbold,11.03999996,632.223877,5,H4
+"One local point of entry to quality, curriculum- based electronic information",arial,11.03999996,645.0633545,5,O
+resources and services,arial,11.03999996,657.6600342,5,O
+"Connection to their individual educational environment, whether at the",arial,11.03999996,670.3781128,5,O
+"elementary, secondary or post-secondary levels",arial,11.03999996,682.9747314,5,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,5,O
+Mar-03,arialbolditalic,7.559999943,734.038208,5,O
+5,arialblackitalic,9,730.9798584,5,O
+"Confidence that the services and resources people are using are credible,",arial,11.03999996,72.20881653,6,O
+available when they need them and adaptable to different learning styles,arial,11.03999996,84.80543518,6,O
+For each Ontario library it could mean:,arialbold,11.03999996,110.0097809,6,H4
+One point of entry for themselves and their clientele to quality electronic,arial,11.03999996,122.8493195,6,O
+"resources and services that support and enhance their collections, programs",arial,11.03999996,135.4459381,6,O
+and services,arial,11.03999996,148.0425568,6,O
+"The opportunity to show case their local community, collections, services, and",arial,11.03999996,160.7606354,6,O
+expertise,arial,11.03999996,173.357193,6,O
+"The opportunity to gain from the provincial, collaborative partnership in order",arial,11.03999996,186.0752716,6,O
+to provide a seamless gateway to digital resources and services,arial,11.03999996,198.6718903,6,O
+For the Ontario government it could mean:,arialbold,11.03999996,223.876358,6,H4
+"A point of entry to information services and resources for all Ontario citizens,",arialitalic,11.03999996,236.5944366,6,O
+connecting to portal initiatives .,arial,11.03999996,249.3125153,6,O
+Support of the Ontario E-Learning strategy through a collaborative digital,arial,11.03999996,261.9091187,6,O
+library initiative that positions Ontario on the global e-learning scene,arial,11.03999996,274.6271973,6,O
+Improved access and flexibility for all students at all ages and stages,arial,11.03999996,287.2238464,6,O
+(supports Ontario's lifelong learning strategy),arial,11.03999996,299.8204956,6,O
+The opportunity to address emerging job skills shortages and facilitate school,arial,11.03999996,312.5385742,6,O
+to work and job to job transitions with the necessary information and,arial,11.03999996,325.1352234,6,O
+knowledge supports and tools,arial,11.03999996,337.853302,6,O
+ODL will be an incorporated non-profit organization governed by a Board of Directors elected,arial,11.03999996,363.0575867,6,O
+by a voting membership. The Board will include representatives from all stakeholders. We,arial,11.03999996,375.7756653,6,O
+envision a governance model similar to that prepared for the province’s ORION network.,arial,11.03999996,388.3723145,6,O
+"More information regarding the envisioned phasing, funding and resources required for the",arial,11.03999996,413.0908813,6,O
+ODL can be found in the appendixes.,arial,11.03999996,425.6875305,6,O
+The Business Plan to be Developed,arialblack,12,459.1199951,6,H4
+The business plan which needs to be developed for the ODL must be a formal business plan,arial,11.03999996,503.6087036,6,O
+"that documents and clearly communicates the ODL’s services, funding and governance",arial,11.03999996,516.2053223,6,O
+"structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",arial,11.03999996,528.802002,6,O
+"2007. The planning process must also secure the full commitment of all stakeholders, as",arial,11.03999996,541.5200806,6,O
+represented on the Steering Committee.,arial,11.03999996,554.1166992,6,O
+"Specifically, the business plan must include:",arial,11.03999996,578.2391357,6,O
+"how the ODL will be implemented, including the timeline",arial,11.03999996,603.5648804,6,O
+the financial plan for the implementation,arial,11.03999996,616.282959,6,O
+"the financial plan for the first 2 operating years, including capital and operating costs,",arial,11.03999996,628.8795776,6,O
+"revenues, etc.",arial,11.03999996,641.4761963,6,O
+a financial forecast for the succeeding 2 operating years,arial,11.03999996,654.1943359,6,O
+the services and products to be delivered by the ODL,arial,11.03999996,666.7909546,6,O
+how the ODL will operate and be managed following the implementation,arial,11.03999996,679.5090332,6,O
+"who will be involved, and what their role/responsibility will be, for both the",arial,11.03999996,692.1056519,6,O
+implementation and operational stages,arial,11.03999996,704.7022705,6,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,6,O
+Mar-03,arialbolditalic,7.559999943,734.038208,6,O
+6,arialblackitalic,9,730.9798584,6,O
+the marketing and communications plan for the ODL,arial,11.03999996,72.20881653,7,O
+the commitment of all stakeholders to their responsibilities,arial,11.03999996,84.80543518,7,O
+The process of developing this business plan must be extremely consultative to ensure that,arial,11.03999996,110.1311798,7,O
+all stakeholders are engaged in creating a synergistic ODL organization. The proposal must,arial,11.03999996,122.8492584,7,O
+indicate how this consultative process will be approached.,arialitalic,11.03999996,135.4458771,7,O
+"The business plan for the ODL must address significant issues. There are, for example,",arial,11.03999996,160.7716217,7,O
+enormous differences in the financial resources available to libraries mandated to provide,arial,11.03999996,173.3682404,7,O
+"similar services. Some post-secondary and public libraries, particularly those in large urban",arial,11.03999996,186.086319,7,O
+"areas, have the facilities, funding and technological infrastructure necessary to service their",arial,11.03999996,198.6829376,7,O
+"patrons with electronic services and resources.  Many others, particularly in rural regions, do",arial,11.03999996,211.2795563,7,O
+not. The proposal must indicate how these issues will be approached.,arial,11.03999996,223.9976349,7,O
+Milestones,arialblack,12,270.1199951,7,H3
+1) A preliminary report will be issued during June 2003.,arialitalic,11.03999996,302.9687805,7,O
+"2) It is expected that an Interim Report, suitable for distribution to the broader library",arialitalic,11.03999996,327.5658875,7,O
+"community will be available by August 1, 2003 and that there will be an opportunity",arialitalic,11.03999996,340.2839661,7,O
+for responses to be evaluated.,arialitalic,11.03999996,352.8806152,7,O
+3) The business plan must be completed and approved by the ODL Steering Committee,arialitalic,11.03999996,377.5991821,7,O
+"no later than September 30, 2003.",arialitalic,11.03999996,390.1958313,7,O
+Approach and Specific Proposal Requirements,arialblack,12,423.5999756,7,H2
+The firm/consultant (or proposed team of consultants) will be expected to work closely with,arial,11.03999996,456.5687866,7,O
+the ODL Steering Committee. Terms of reference for the Committee are in the appendix.,arial,11.03999996,469.1654358,7,O
+"Given the consultative nature of this business planning process, the firm/consultant will also",arial,11.03999996,481.8835144,7,O
+be expected to travel and communicate regularly with various stakeholders as well as with,arial,11.03999996,494.4801636,7,O
+electronic resource publishers/vendors.,arial,11.03999996,507.0767822,7,O
+The proposal should include the following information:,arial,11.03999996,531.7954102,7,O
+a) name of the firm/consultant,arial,11.03999996,556.3925171,7,O
+"b) names of those individuals who will be engaged in this project, their specific",arial,11.03999996,569.1105957,7,O
+responsibilities on this project and relevant experience/qualifications,arial,11.03999996,581.7072144,7,O
+c) description of similar engagements that highlight the firm’s experience in business,arial,11.03999996,594.303833,7,O
+planning and building stakeholder commitment,arial,11.03999996,607.0219116,7,O
+d) references with details of work completed for these references,arial,11.03999996,619.6185303,7,O
+"e) description of the approach that will be used for completing the business plan,",arial,11.03999996,632.3366699,7,O
+including a timeline,arial,11.03999996,644.9332886,7,O
+"f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",arial,11.03999996,657.5299072,7,O
+structure,arial,11.03999996,670.2479858,7,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,7,O
+Mar-03,arialbolditalic,7.559999943,734.038208,7,O
+7,arialblackitalic,9,730.9798584,7,O
+Evaluation and Awarding of Contract,arialblack,12,81.00001526,8,H2
+The contract will be awarded to the bidder whose submission offers the best value; the contract will,arial,11.03999996,122.8488312,8,O
+not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to,arial,11.03999996,135.5669098,8,O
+any of the bidders responding to this RFP and we may seek further response.,arial,11.03999996,148.1635284,8,O
+"Specifically, proposals will be evaluated proposals according to the following criteria:",arial,11.03999996,172.7606354,8,O
+Quality of the proposal /approach outlined for undertaking the business planning process,arial,11.03999996,210.1972809,8,O
+Demonstrated experience,arial,11.03999996,222.9153595,8,O
+"Cost, including expenses",arial,11.03999996,235.5119781,8,O
+Timeline and projected completion date,arial,11.03999996,248.1085968,8,O
+Other relevant factors as determined by the ODL Steering Committee,arial,11.03999996,261.312439,8,O
+Questions regarding this RFP should be directed by e-mail only to Michael Ridley,arial,11.03999996,286.6271667,8,O
+(mridley@uoguelph.ca).,arial,11.03999996,299.3452454,8,O
+Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering,arial,11.03999996,324.6599731,8,O
+Committee.,arial,11.03999996,337.2566223,8,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,8,O
+Mar-03,arialbolditalic,7.559999943,734.038208,8,O
+8,arialblackitalic,9,730.9798584,8,O
+Appendix A: ODL Envisioned Phases & Funding,arialblack,12,107.5199738,9,H2
+Phase I: Business Planning,arialbold,9.960000038,139.7858887,9,H3
+Timeline: March 2003 - September 2003,arialbold,9.960000038,162.8233643,9,O
+"Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government.",arialbold,9.960000038,174.3471069,9,O
+Result: The ODL business plan,arialbold,9.960000038,197.2650757,9,O
+"The first phase will be to build the ODL business plan. This plan will clearly define the ODL's services,",arial,9.960000038,220.4220581,9,O
+"funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",arial,9.960000038,231.9458008,9,O
+the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond.,arial,9.960000038,243.4695435,9,O
+"Given the number and diversity of stakeholders involved, the business planning process must be a fully",arial,9.960000038,266.3875122,9,O
+consultative approach. To ensure that the planning results in a workable plan with the full commitment,arial,9.960000038,277.9112244,9,O
+"of all stakeholders it must have competent, dedicated staffing and monies for the travel and",arial,9.960000038,289.4349365,9,O
+communication components so critical in a consultative process.,arial,9.960000038,300.9586487,9,O
+Phase II: Implementing and Transitioning,arialbold,9.960000038,335.2808228,9,H3
+Timeline: April 2004 - December 2006,arialbold,9.960000038,358.3182983,9,O
+Funding Requested: Funding from other states and provinces suggest that the ODL could receive,arialbold,9.960000038,369.84198,9,O
+"funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",arialitalic,9.960000038,381.3656921,9,O
+stakeholders and other interested parties.,arialitalic,9.960000038,392.7698975,9,O
+Result: The ODL is implemented and validated,arialbold,9.960000038,415.807373,9,O
+The second phase will be to implement the ODL based on the business plan. This phase recognizes,arial,9.960000038,438.964386,9,O
+that for ODL to be optimally successful libraries must transition to a new way of doing business and,arial,9.960000038,450.4880981,9,O
+providing services. The transition must occur while libraries continue to provide existing services and,arial,9.960000038,461.8923035,9,O
+"respond to current challenges. This implementation phase will funded by a partnership of government,",arial,9.960000038,473.4160156,9,O
+library stakeholders and other interested parties as a means to quickly jumpstart the ODL.,arial,9.960000038,484.9397278,9,O
+The seed money requested will allow libraries to realign their budgets and services as the infrastructure,arial,9.960000038,507.9771729,9,O
+"and content of the ODL is created and secured. Some of the funding will be new money, although there",arial,9.960000038,519.3814087,9,O
+is every indication that existing budgets and methods of operating may be modified as a result of,arialitalic,9.960000038,530.7856445,9,O
+"recommendations . During this phase the polices, procedures, governance structures and accountability",arialitalic,9.960000038,542.3093262,9,O
+"mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",arial,9.960000038,553.9525757,9,O
+"Information resources will be identified, contracts for these resources will be negotiated and resources",arial,9.960000038,565.4763184,9,O
+will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is,arial,9.960000038,577,9,O
+achieving its objectives and is accountable to its key communities.,arial,9.960000038,588.5236816,9,O
+Phase III: Operating and Growing the ODL,arialbold,9.960000038,611.3221436,9,H3
+Timeline: January 2007 -,arialbold,9.960000038,634.3596191,9,O
+Funding: $50 Million annually ($35 Million requested from government),arialbold,9.960000038,645.8833618,9,O
+Result: The ODL is fully operational and sustainable,arialbold,9.960000038,668.8013916,9,O
+In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits,arial,9.960000038,691.958313,9,O
+of the initiative and libraries will consolidate support around the ODL to grow resources and extend,arial,9.960000038,703.4820557,9,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,9,O
+Mar-03,arialbolditalic,7.559999943,734.038208,9,O
+9,arialblackitalic,9,730.9798584,9,O
+capabilities. The challenge is to secure resources sufficient to both sustain the original investments and,arial,9.960000038,72.22618866,10,O
+to enhance the ODL.,arial,9.960000038,83.74993134,10,O
+The ongoing funding of the ODL will be based on a partnership model involving all the key participants,arial,9.960000038,106.6679001,10,O
+"(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",arial,9.960000038,118.1916428,10,O
+expected to make financial contributions to the ODL. It is important in achieving the full impact of the,arial,9.960000038,129.7153931,10,O
+"ODL on Ontario's economy, society and learning support that all library sectors are participants",arial,9.960000038,141.2391357,10,O
+"(university, colleges, public libraries and schools).",arial,9.960000038,152.7628784,10,O
+"The proposed funding model requires a continuing government investment, but also recognizes that as",arial,9.960000038,170.2824097,10,O
+the ODL matures a growing share of ODL funding will come from libraries and non-governmental,arial,9.960000038,181.6865845,10,O
+sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to,arial,9.960000038,193.2103271,10,O
+enable ongoing funding contributions to ODL. During the same period ODL must build the proposed,arial,9.960000038,204.7340698,10,O
+endowment and secure public and private sector gifts and/or in-kind contributions. The following chart,arial,9.960000038,216.2578125,10,O
+outlines the model. This model is based on these assumptions:,arial,9.960000038,227.7815552,10,O
+1. that ODL expenditures will increase by 50% over a 10 year period,arial,9.960000038,245.3012085,10,O
+2. that government funding will decrease from 70% to 45% during that 10 year period,arial,9.960000038,262.701355,10,O
+"3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",arial,9.960000038,280.2210083,10,O
+during the same period,arial,9.960000038,291.7447205,10,O
+OVERVIEW OF ODL FUNDING MODEL,arialbold,9.960000038,320.6685486,10,O
+Funding Source,arialbold,12,344.1000061,10,O
+2007,arialbold,12,344.1000061,10,O
+2017,arialbold,12,344.1000061,10,O
+Government,arial,9.960000038,358.4262085,10,O
+$35M (70%),arial,9.960000038,358.4262085,10,O
+$33.75M (45%),arial,9.960000038,358.4262085,10,O
+Libraries,arial,9.960000038,370.428009,10,O
+$10M (20%),arial,9.960000038,370.428009,10,O
+$22.5M (30%),arial,9.960000038,370.428009,10,O
+Endowment,arial,9.960000038,382.4298096,10,O
+$4.5M (9%),arial,9.960000038,382.4298096,10,O
+$15M (20%),arial,9.960000038,382.4298096,10,O
+Gifts/In-Kind,arial,9.960000038,394.4316101,10,O
+$0.5M (1%),arial,9.960000038,394.4316101,10,O
+$3.75M (5%),arial,9.960000038,394.4316101,10,O
+TOTAL ANNUAL,arialbold,9.960000038,406.3139038,10,O
+$50M,arial,9.960000038,406.4334106,10,O
+$75M,arial,9.960000038,406.4334106,10,O
+"While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",arial,9.960000038,441.4726868,10,O
+"kind contributions, the ODL will also explore compatible commercial services which leverage the reach",arial,9.960000038,452.9963989,10,O
+of the ODL and help to offset operating costs.,arial,9.960000038,464.5201111,10,O
+A $50M budget leverages the consortium buying power of the province’s libraries to secure the best,arial,9.960000038,487.5575867,10,O
+"prices for information resources, the widest accessibility and the most favourable contracts. A budget of",arial,9.960000038,498.961792,10,O
+this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial,arial,9.960000038,510.4854736,10,O
+amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview,arial,9.960000038,522.0092163,10,O
+of the nature of the ODL digital collection is appended). The proposed ODL expenditures in 2006,arial,9.960000038,533.532959,10,O
+represent an investment of $5.00 per citizen.,arialbolditalic,9.960000038,545.0566406,10,O
+It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a,arial,9.960000038,567.9746094,10,O
+double benefit: it supports a province-wide library of high quality information resources and it,arial,9.960000038,579.498291,10,O
+strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources,arial,9.960000038,591.0220337,10,O
+that enhance local services. This multiplier means that for every dollar invested in ODL the return,arial,9.960000038,602.5457764,10,O
+on investment is worth $2 of value for Ontario.,arialbolditalic,9.960000038,614.069458,10,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,10,O
+Mar-03,arialbolditalic,7.559999943,734.038208,10,O
+10,arialblackitalic,9,730.9798584,10,O
+10,arialblackitalic,9,731.2229004,10,O
+10,arialblackitalic,9,731.2229004,10,O
+10,arialblackitalic,9,730.9798584,10,O
+Appendix B:,arialblack,12,92.51997375,11,O
+ODL Steering Committee Terms of Reference,arialblack,12,92.51997375,11,H2
+1. Preamble,arialbold,9.960000038,136.7858887,11,H3
+Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed,arial,9.960000038,159.9428711,11,O
+and supported by its diverse stakeholder communities (see: www.odl.on.ca ).  The business,arial,9.960000038,171.3470459,11,O
+"development planning and commitment process will be overseen by a Steering Committee, who are",arial,9.960000038,182.8707886,11,O
+accountable to potential ODL funders including  the Province of Ontario.,arial,9.960000038,194.3945313,11,O
+2. Terms of Reference,arialbold,9.960000038,217.3125,11,H3
+"In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",arial,9.960000038,240.3499756,11,O
+"business plan, securing sector support, and management of the planners and process.  Specific",arial,9.960000038,251.8737183,11,O
+responsibilities include:,arial,9.960000038,263.3974609,11,O
+"2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",arial,9.960000038,286.4349365,11,O
+"governance, management, funding model and structure, organizational structure, marketing,",arial,9.960000038,297.8391418,11,O
+"staffing, and evaluation;",arial,9.960000038,309.362854,11,O
+"2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",arial,9.960000038,320.8865662,11,O
+"communication, and to ensure meaningful opportunities for stakeholder input into decision-",arial,9.960000038,332.4102783,11,O
+making;,arial,9.960000038,343.9339905,11,O
+2.3 recruiting and managing the business planner(s);,arial,9.960000038,355.4577026,11,O
+"2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",arial,9.960000038,366.861908,11,O
+expenditures;,arial,9.960000038,378.3856201,11,O
+2.5 serving as a focus group for business planner(s) to test ideas;,arial,9.960000038,389.9093323,11,O
+2.6 providing signoff for business planner(s) at key decision points of business plan development;,arial,9.960000038,401.4330444,11,O
+"2.7 securing commitment from library, government, and institutional stakeholders for implementation",arial,9.960000038,412.9567566,11,O
+of the business plan;,arial,9.960000038,424.4804688,11,O
+2.8 presenting the business plan to funders,arial,9.960000038,435.8846741,11,O
+2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library,arial,9.960000038,447.4083862,11,O
+and education communities.,arial,9.960000038,458.9320984,11,O
+3. Membership,arialbold,9.960000038,481.8500671,11,H3
+"Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",arial,9.960000038,504.8875732,11,O
+representatives to the steering committee,arial,9.960000038,516.4112549,11,O
+3.1 Schools:,arial,9.960000038,539.4487305,11,O
+#NAME?,arial,9.960000038,550.9724121,11,O
+Coordinators of Ontario (TALCO)  ( Executive Council of OSLA to name representative in,arial,9.960000038,562.2571411,11,O
+consultation with TALCO ),arialitalic,9.960000038,573.7808838,11,O
+3.2 Universities:,arial,9.960000038,585.4240723,11,O
+#NAME?,arial,9.960000038,596.8283081,11,O
+3.3 Colleges:,arial,9.960000038,608.4715576,11,O
+#NAME?,arial,9.960000038,619.8757324,11,O
+3.4 Public libraries:,arial,9.960000038,631.3994141,11,O
+#NAME?,arial,9.960000038,642.9231567,11,O
+"Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of",arial,9.960000038,654.4468994,11,O
+Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO),arial,9.960000038,665.9705811,11,O
+"( Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name )",arial,9.960000038,677.3747559,11,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,11,O
+Mar-03,arialbolditalic,7.559999943,734.038208,11,O
+11,arialblackitalic,9,730.9798584,11,O
+11,arialblackitalic,9,731.2229004,11,O
+11,arialblackitalic,9,731.2229004,11,O
+11,arialblackitalic,9,730.9798584,11,O
+3.5 Ontario Library Association representative (ex-officio)  ( OLA to appoint one representative ),arial,9.960000038,72.13579559,12,O
+#NAME?,arial,9.960000038,83.77910614,12,O
+"the OLA Board, and to assist the chair with the administrative responsibilities connected with",arial,9.960000038,95.30284882,12,O
+"the preparation of the business plan, finance, and communications.",arial,9.960000038,106.7070236,12,O
+"3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",arial,9.960000038,129.7445068,12,O
+"discretion, call on invited experts to advise on issues as required.",arial,9.960000038,141.2682495,12,O
+4. Appointment Criteria and Process,arialbold,9.960000038,164.1862183,12,H3
+4.1,arial,9.960000038,187.8312378,12,O
+Groups and organizations named in Section 3 above are responsible for appointing up to two,arial,9.960000038,187.8312378,12,O
+representatives to the Steering Committee.,arial,9.960000038,199.8330078,12,O
+4.2,arial,9.960000038,223.8366089,12,O
+Desired characteristics for steering committee appointees include:,arial,9.960000038,223.8366089,12,O
+•,symbol,9.960000038,246.9139099,12,O
+Strategic thinkers;,arial,9.960000038,247.9597168,12,O
+•,symbol,9.960000038,259.1547546,12,O
+Committed to the concept of multi-sector partnerships;,arial,9.960000038,260.2005615,12,O
+•,symbol,9.960000038,271.276062,12,O
+Knowledgeable about digital libraries and resources;,arial,9.960000038,272.3218689,12,O
+•,symbol,9.960000038,283.5169067,12,O
+Knowledgeable about government structures;,arial,9.960000038,284.5627136,12,O
+•,symbol,9.960000038,295.6382141,12,O
+Respected by their communities; influential;,arial,9.960000038,296.684021,12,O
+•,symbol,9.960000038,307.7595215,12,O
+Able to take a consultative approach;,arial,9.960000038,308.8053284,12,O
+•,symbol,12,319.9200134,12,O
+Able to devote time to Steering Committee business: approximately one day per month for,arial,9.960000038,323.0262146,12,O
+meetings plus 2-3 working days per month on related activities .,arial,9.960000038,336.2232056,12,O
+5. Term,arialbold,9.960000038,359.6259155,12,H3
+Expected term on the Steering Committee is the time required to complete development of the,arial,9.960000038,382.7829285,12,O
+business plan plus two months. This process is expected to take approximately 6 months.,arial,9.960000038,394.1871338,12,O
+6. Chair,arialbold,9.960000038,417.1051025,12,H3
+Chair will be appointed by the Board of the Ontario Library Association.,arial,9.960000038,440.2621155,12,O
+Role of the Chair:,arial,9.960000038,465.460907,12,O
+In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent,arial,9.960000038,488.4983826,12,O
+"working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",arial,9.960000038,500.0220947,12,O
+plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of,arial,9.960000038,511.5457764,12,O
+"the business plan, and communications to stakeholders, funders, and government.",arial,9.960000038,523.069519,12,O
+7. Meetings,arialbold,9.960000038,545.867981,12,H3
+It is expected that in person meetings are held once per month and the majority of business will be,arial,9.960000038,569.0249634,12,O
+"conducted by e-mail, and teleconference.",arial,9.960000038,580.5487061,12,O
+8. Lines of Accountability and Communication,arialbold,9.960000038,603.3471069,12,H3
+"8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",arial,9.960000038,626.5041504,12,O
+funders.,arial,9.960000038,638.027832,12,O
+8.2 The role of the Ontario Library Association is to assume responsibility for  funds contributed by the,arial,9.960000038,661.0653076,12,O
+"ODL funders to finance the business plan, to hold the funds in a separate account, and",arial,9.960000038,672.4694824,12,O
+disperse them for purposes as  directed by the Steering Committee. OLA will provide,arial,9.960000038,683.9932251,12,O
+financial reports to the Steering Committee as requested and shall comply with all,arial,9.960000038,695.5169678,12,O
+government reporting regulations for funds received.,arial,9.960000038,707.0406494,12,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,12,O
+Mar-03,arialbolditalic,7.559999943,734.038208,12,O
+12,arialblackitalic,9,730.9798584,12,O
+12,arialblackitalic,9,731.2229004,12,O
+12,arialblackitalic,9,731.2229004,12,O
+12,arialblackitalic,9,730.9798584,12,O
+8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for,arial,9.960000038,83.7698288,13,O
+ongoing communications and consultation on issues and progress.  The Steering committee,arial,9.960000038,95.29357147,13,O
+is responsible for strong liaison with government particularly the Chief Information Officer,arial,9.960000038,106.6977463,13,O
+"Community Services Cluster, ADM's and Deputy Ministers.",arial,9.960000038,118.221489,13,O
+9. Financial and Administrative Policies,arialbold,9.960000038,141.1394653,13,H3
+9.1 Service on the Steering Committee is non-remunerative,arial,9.960000038,164.2964478,13,O
+9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the,arial,9.960000038,175.7006226,13,O
+policies of the Ontario Library Association,arial,9.960000038,187.2243652,13,O
+9.3 Conflict of Interest:,arial,9.960000038,198.7481079,13,O
+The ODL Steering Committee will function according to standard conflict of interest guidelines,arial,9.960000038,210.2718506,13,O
+"ensuring that members,  their immediate family members, or their places of employment, will",arial,9.960000038,221.7955322,13,O
+not benefit financially from the decisions  the Steering Committee might make. As a first,arial,9.960000038,233.3192749,13,O
+"order of business, the Steering Committee will be expected to adopt a conflict of interest policy",arial,9.960000038,244.7234497,13,O
+statement and procedural guidelines that will govern its work.,arial,9.960000038,256.2471924,13,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,13,O
+Mar-03,arialbolditalic,7.559999943,734.038208,13,O
+13,arialblackitalic,9,730.9798584,13,O
+13,arialblackitalic,9,731.2229004,13,O
+13,arialblackitalic,9,731.2229004,13,O
+13,arialblackitalic,9,730.9798584,13,O
+Appendix C: ODL’s Envisioned Electronic Resources,arialblack,12,92.51997375,14,H2
+The purpose of the ODL is to provide equal access to information for all Ontario citizens through,arial,9.960000038,136.9058838,14,O
+collaboration and resource sharing. ODL will be a portal - capable of customization as,arial,9.960000038,148.4296265,14,O
+"a home page for local libraries - to organized, comprehensive, authoritative and validated",arial,9.960000038,159.9533691,14,O
+e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects,arial,9.960000038,171.3575439,14,O
+"of their education, life and work. Some examples:",arial,9.960000038,182.8812866,14,O
+1. Reference Resources,arial,9.960000038,205.9187622,14,O
+"- directories: companies, associations, organizations, governments, educational institutions,",arial,9.960000038,228.9562378,14,O
+etc. etc.,arial,9.960000038,240.3604126,14,O
+#NAME?,arial,9.960000038,251.8841553,14,O
+#NAME?,arial,9.960000038,263.4078979,14,O
+#NAME?,arial,9.960000038,274.9316101,14,O
+"- phone books,",arial,9.960000038,286.4553223,14,O
+#NAME?,arial,9.960000038,297.8595276,14,O
+#NAME?,arial,9.960000038,309.3832397,14,O
+#NAME?,arial,9.960000038,320.9069519,14,O
+#NAME?,arial,9.960000038,332.4306641,14,O
+#NAME?,arial,9.960000038,343.9543762,14,O
+"- currency converters,",arial,9.960000038,355.4780884,14,O
+#NAME?,arial,9.960000038,366.8822937,14,O
+#NAME?,arial,9.960000038,378.4060059,14,O
+#NAME?,arial,9.960000038,389.929718,14,O
+#NAME?,arial,9.960000038,401.4534302,14,O
+2. Subject Guides,arial,9.960000038,424.4909058,14,O
+#NAME?,arial,9.960000038,447.4088745,14,O
+#NAME?,arial,9.960000038,458.9325867,14,O
+#NAME?,arial,9.960000038,470.4563293,14,O
+#NAME?,arial,9.960000038,481.9800415,14,O
+#NAME?,arial,9.960000038,493.3842468,14,O
+#NAME?,arial,9.960000038,504.90802,14,O
+#NAME?,arial,9.960000038,516.4317627,14,O
+#NAME?,arial,9.960000038,527.9554443,14,O
+#NAME?,arial,9.960000038,539.479126,14,O
+3. Educational tool-kits,arial,9.960000038,562.3970947,14,O
+#NAME?,arial,9.960000038,585.4345703,14,O
+#NAME?,arial,9.960000038,596.958252,14,O
+#NAME?,arial,9.960000038,608.4819946,14,O
+#NAME?,arial,9.960000038,620.0057373,14,O
+#NAME?,arial,9.960000038,631.4099731,14,O
+"4. Journals, books, maps, music etc.",arial,9.960000038,654.4474487,14,O
+RFP: To Develop the Ontario Digital Library Business Plan,arialbolditalic,7.559999943,734.038208,14,O
+Mar-03,arialbolditalic,7.559999943,734.038208,14,O
+14,arialblackitalic,9,730.9798584,14,O
+14,arialblackitalic,9,731.2229004,14,O
+14,arialblackitalic,9,731.2229004,14,O
+14,arialblackitalic,9,730.9798584,14,O

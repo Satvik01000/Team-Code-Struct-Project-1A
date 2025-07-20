@@ -4,7 +4,7 @@ import sys
 from extract_features import extract_pdf_features
 
 pdf_name = sys.argv[1] if len(sys.argv) > 1 else ""
-pdf_path = "../sample_pdfs/{pdf_name}"
+pdf_path = f"../sample_pdfs/{pdf_name}"
 
 blocks = extract_pdf_features(pdf_path)
 
