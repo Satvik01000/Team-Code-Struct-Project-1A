@@ -1,5 +1,0 @@
-PyMuPDF==1.23.9
-pdfplumber==0.10.2
-numpy
-scikit-learn
-
