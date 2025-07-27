@@ -1,6 +1,4 @@
 import os
-import time
-import json
 
 from app.optimize import FastPDFProcessor, ResourceMonitor
 from app.output_generator import OutputGenerator
