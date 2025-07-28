@@ -1,8 +1,5 @@
 .DS_Store
-/app/sample
 /app/__pycache__
-/Challenge 1A/sample_pdfs
 /output
 /input
 .venv
-.idea
