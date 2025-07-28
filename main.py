@@ -28,18 +28,15 @@ def main():
         output_file = os.path.join(OUTPUT_DIRECTORY, f"{os.path.splitext(file_name)[0]}.json")
         
         try:
-            # The repetitive "Processing..." print statement has been removed.
             result_data = processor.process_pdf(input_file)
             generator.save_to_file(result_data, output_file)
             total_pages += len(result_data.get("outline", []))
         except Exception as e:
-            # This error message is important and should be kept.
             print(f"FATAL ERROR processing {file_name}: {e}")
 
     monitor.stop()
     report = monitor.get_report(len(pdf_files), total_pages)
     
-    # The final performance report is essential for verification.
     print("\n--- PERFORMANCE REPORT ---")
     print(f"  Files Processed: {report['files_processed']}")
     print(f"  Total Time: {report['total_time_seconds']}s")
