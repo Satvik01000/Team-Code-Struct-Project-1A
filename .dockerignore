@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+
+.git/
+.venv/
+__pycache__/
+
+input/
+output/
